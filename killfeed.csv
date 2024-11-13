@@ -1,0 +1,3070 @@
+frame_number,row,text
+240,0,no matches
+240,1,no matches
+240,2,no matches
+270,0,no matches
+270,1,no matches
+270,2,no matches
+300,0,no matches
+300,1,no matches
+300,2,no matches
+330,0,no matches
+330,1,no matches
+330,2,no matches
+360,0,no matches
+360,1,no matches
+360,2,no matches
+390,0,no matches
+390,1,no matches
+390,2,no matches
+420,0,no matches
+420,1,no matches
+420,2,no matches
+450,0,no matches
+450,1,no matches
+450,2,no matches
+480,0,no matches
+480,1,no matches
+480,2,no matches
+510,0,no matches
+510,1,no matches
+510,2,no matches
+540,0,no matches
+540,1,no matches
+540,2,no matches
+570,0,no matches
+570,1,no matches
+570,2,no matches
+600,0,no matches
+600,1,no matches
+600,2,no matches
+630,0,no matches
+630,1,no matches
+630,2,no matches
+660,0,no matches
+660,1,no matches
+660,2,no matches
+690,0,no matches
+690,1,no matches
+690,2,no matches
+720,0,no matches
+720,1,no matches
+720,2,no matches
+750,0,no matches
+750,1,no matches
+750,2,no matches
+780,0,no matches
+780,1,no matches
+780,2,no matches
+810,0,no matches
+810,1,no matches
+810,2,no matches
+840,0,no matches
+840,1,no matches
+840,2,no matches
+870,0,no matches
+870,1,no matches
+870,2,no matches
+900,0,no matches
+900,1,no matches
+900,2,no matches
+930,0,no matches
+930,1,no matches
+930,2,no matches
+960,0,no matches
+960,1,no matches
+960,2,no matches
+990,0,no matches
+990,1,no matches
+990,2,no matches
+1020,0,no matches
+1020,1,no matches
+1020,2,no matches
+1050,0,no matches
+1050,1,no matches
+1050,2,no matches
+1080,0,no matches
+1080,1,no matches
+1080,2,no matches
+1110,0,no matches
+1110,1,no matches
+1110,2,no matches
+1140,0,no matches
+1140,1,no matches
+1140,2,no matches
+1170,0,no matches
+1170,1,no matches
+1170,2,no matches
+1200,0,no matches
+1200,1,no matches
+1200,2,no matches
+1230,0,2 ghosty.png killed 1 shotzzy.png
+1230,1,no matches
+1230,2,no matches
+1260,0,no matches
+1260,1,no matches
+1260,2,no matches
+1290,0,no matches
+1290,1,no matches
+1290,2,no matches
+1320,0,no matches
+1320,1,no matches
+1320,2,no matches
+1350,0,2 hydra.png killed 1 dashy.png
+1350,1,2 ghosty.png killed 1 shotzzy.png
+1350,2,no matches
+1380,0,2 hydra.png killed 1 dashy.png
+1380,1,2 ghosty.png killed 1 shotzzy.png
+1380,2,no matches
+1410,0,no matches
+1410,1,no matches
+1410,2,no matches
+1440,0,no matches
+1440,1,no matches
+1440,2,no matches
+1470,0,1 kenny.png killed 2 scrap.png
+1470,1,2 hydra.png killed 1 dashy.png
+1470,2,no matches
+1500,0,no matches
+1500,1,no matches
+1500,2,no matches
+1530,0,2 ghosty.png killed 1 kenny.png
+1530,1,1 pred.png killed 2 envoy.png
+1530,2,no matches
+1560,0,no matches
+1560,1,no matches
+1560,2,no matches
+1590,0,no matches
+1590,1,no matches
+1590,2,no matches
+1620,0,2 ghosty.png killed 1 kenny.png
+1620,1,1 pred.png killed 2 envoy.png
+1620,2,no matches
+1650,0,2 ghosty.png killed 1 kenny.png
+1650,1,1 pred.png killed 2 envoy.png
+1650,2,no matches
+1680,0,no matches
+1680,1,no matches
+1680,2,no matches
+1710,0,2 ghosty.png killed 1 kenny.png
+1710,1,1 pred.png killed 2 envoy.png
+1710,2,no matches
+1740,0,2 ghosty.png killed 1 kenny.png
+1740,1,no matches
+1740,2,no matches
+1770,0,2 ghosty.png killed 1 kenny.png
+1770,1,no matches
+1770,2,no matches
+1800,0,no matches
+1800,1,no matches
+1800,2,no matches
+1830,0,2 hydra.png killed 1 pred.png
+1830,1,no matches
+1830,2,no matches
+1860,0,2 hydra.png killed 1 pred.png
+1860,1,no matches
+1860,2,no matches
+1890,0,2 hydra.png killed 1 pred.png
+1890,1,no matches
+1890,2,no matches
+1920,0,2 hydra.png killed 1 pred.png
+1920,1,no matches
+1920,2,no matches
+1950,0,2 hydra.png killed 1 pred.png
+1950,1,no matches
+1950,2,no matches
+1980,0,2 hydra.png killed 1 pred.png
+1980,1,no matches
+1980,2,no matches
+2010,0,no matches
+2010,1,no matches
+2010,2,no matches
+2040,0,no matches
+2040,1,no matches
+2040,2,no matches
+2070,0,no matches
+2070,1,no matches
+2070,2,no matches
+2100,0,no matches
+2100,1,no matches
+2100,2,no matches
+2130,0,no matches
+2130,1,no matches
+2130,2,no matches
+2160,0,1 shotzzy.png killed 2 ghosty.png
+2160,1,2 hydra.png killed 1 dashy.png
+2160,2,no matches
+2190,0,1 shotzzy.png killed 2 ghosty.png
+2190,1,2 hydra.png killed 1 dashy.png
+2190,2,no matches
+2220,0,1 shotzzy.png killed 2 ghosty.png
+2220,1,2 hydra.png killed 1 dashy.png
+2220,2,no matches
+2250,0,no matches
+2250,1,no matches
+2250,2,no matches
+2280,0,no matches
+2280,1,2 hydra.png killed 1 dashy.png
+2280,2,no matches
+2310,0,no matches
+2310,1,no matches
+2310,2,no matches
+2340,0,no matches
+2340,1,no matches
+2340,2,no matches
+2370,0,no matches
+2370,1,no matches
+2370,2,no matches
+2400,0,1 shotzzy.png killed 2 ghosty.png
+2400,1,no matches
+2400,2,no matches
+2430,0,no matches
+2430,1,no matches
+2430,2,no matches
+2460,0,no matches
+2460,1,no matches
+2460,2,no matches
+2490,0,no matches
+2490,1,no matches
+2490,2,no matches
+2520,0,1 kenny.png killed 2 envoy.png
+2520,1,no matches
+2520,2,no matches
+2550,0,no matches
+2550,1,no matches
+2550,2,no matches
+2580,0,no matches
+2580,1,no matches
+2580,2,no matches
+2610,0,2 ghosty.png killed 1 kenny.png
+2610,1,1 kenny.png killed 2 envoy.png
+2610,2,no matches
+2640,0,no matches
+2640,1,no matches
+2640,2,no matches
+2670,0,2 ghosty.png killed 1 kenny.png
+2670,1,no matches
+2670,2,no matches
+2700,0,2 ghosty.png killed 1 kenny.png
+2700,1,1 kenny.png killed 2 envoy.png
+2700,2,no matches
+2730,0,2 ghosty.png killed 1 kenny.png
+2730,1,1 kenny.png killed 2 envoy.png
+2730,2,no matches
+2760,0,2 ghosty.png killed 1 kenny.png
+2760,1,1 kenny.png killed 2 envoy.png
+2760,2,no matches
+2790,0,2 ghosty.png killed 1 kenny.png
+2790,1,1 kenny.png killed 2 envoy.png
+2790,2,no matches
+2820,0,no matches
+2820,1,2 ghosty.png killed 1 kenny.png
+2820,2,no matches
+2850,0,2 hydra.png killed 1 dashy.png
+2850,1,2 ghosty.png killed 1 kenny.png
+2850,2,no matches
+2880,0,no matches
+2880,1,no matches
+2880,2,no matches
+2910,0,no matches
+2910,1,2 hydra.png killed 1 dashy.png
+2910,2,no matches
+2940,0,no matches
+2940,1,no matches
+2940,2,no matches
+2970,0,no matches
+2970,1,no matches
+2970,2,no matches
+3000,0,no matches
+3000,1,no matches
+3000,2,no matches
+3030,0,2 ghosty.png killed 1 shotzzy.png
+3030,1,2 hydra.png killed 1 dashy.png
+3030,2,no matches
+3060,0,no matches
+3060,1,no matches
+3060,2,no matches
+3090,0,1 pred.png killed 2 ghosty.png
+3090,1,no matches
+3090,2,no matches
+3120,0,no matches
+3120,1,2 ghosty.png killed 1 shotzzy.png
+3120,2,no matches
+3150,0,no matches
+3150,1,no matches
+3150,2,no matches
+3180,0,no matches
+3180,1,no matches
+3180,2,no matches
+3210,0,no matches
+3210,1,no matches
+3210,2,no matches
+3240,0,no matches
+3240,1,no matches
+3240,2,no matches
+3270,0,2 scrap.png killed 1 pred.png
+3270,1,1 pred.png killed 2 ghosty.png
+3270,2,no matches
+3300,0,2 scrap.png killed 1 pred.png
+3300,1,no matches
+3300,2,no matches
+3330,0,2 scrap.png killed 1 pred.png
+3330,1,1 pred.png killed 2 ghosty.png
+3330,2,no matches
+3360,0,2 scrap.png killed 1 pred.png
+3360,1,no matches
+3360,2,no matches
+3390,0,no matches
+3390,1,no matches
+3390,2,no matches
+3420,0,no matches
+3420,1,no matches
+3420,2,no matches
+3450,0,2 scrap.png killed 1 pred.png
+3450,1,no matches
+3450,2,no matches
+3480,0,2 scrap.png killed 1 pred.png
+3480,1,no matches
+3480,2,no matches
+3510,0,no matches
+3510,1,no matches
+3510,2,no matches
+3540,0,no matches
+3540,1,no matches
+3540,2,no matches
+3570,0,2 scrap.png killed 1 shotzzy.png
+3570,1,2 scrap.png killed 1 pred.png
+3570,2,no matches
+3600,0,no matches
+3600,1,no matches
+3600,2,no matches
+3630,0,no matches
+3630,1,no matches
+3630,2,no matches
+3660,0,2 scrap.png killed 1 shotzzy.png
+3660,1,no matches
+3660,2,no matches
+3690,0,1 dashy.png killed 2 ghosty.png
+3690,1,2 scrap.png killed 1 shotzzy.png
+3690,2,no matches
+3720,0,1 dashy.png killed 2 ghosty.png
+3720,1,2 scrap.png killed 1 shotzzy.png
+3720,2,no matches
+3750,0,1 dashy.png killed 2 ghosty.png
+3750,1,2 scrap.png killed 1 shotzzy.png
+3750,2,no matches
+3780,0,1 dashy.png killed 2 ghosty.png
+3780,1,no matches
+3780,2,no matches
+3810,0,1 dashy.png killed 2 ghosty.png
+3810,1,no matches
+3810,2,no matches
+3840,0,1 dashy.png killed 2 ghosty.png
+3840,1,no matches
+3840,2,no matches
+3870,0,1 dashy.png killed 2 ghosty.png
+3870,1,no matches
+3870,2,no matches
+3900,0,no matches
+3900,1,no matches
+3900,2,no matches
+3930,0,1 dashy.png killed 2 ghosty.png
+3930,1,no matches
+3930,2,no matches
+3960,0,1 dashy.png killed 2 ghosty.png
+3960,1,no matches
+3960,2,no matches
+3990,0,no matches
+3990,1,no matches
+3990,2,no matches
+4020,0,no matches
+4020,1,no matches
+4020,2,no matches
+4050,0,no matches
+4050,1,no matches
+4050,2,no matches
+4080,0,no matches
+4080,1,no matches
+4080,2,no matches
+4110,0,2 envoy.png killed 1 kenny.png
+4110,1,no matches
+4110,2,no matches
+4140,0,no matches
+4140,1,no matches
+4140,2,no matches
+4170,0,no matches
+4170,1,no matches
+4170,2,no matches
+4200,0,2 envoy.png killed 1 kenny.png
+4200,1,no matches
+4200,2,no matches
+4230,0,2 envoy.png killed 1 kenny.png
+4230,1,no matches
+4230,2,no matches
+4260,0,no matches
+4260,1,no matches
+4260,2,no matches
+4290,0,no matches
+4290,1,no matches
+4290,2,no matches
+4320,0,no matches
+4320,1,no matches
+4320,2,no matches
+4350,0,2 envoy.png killed 1 kenny.png
+4350,1,no matches
+4350,2,no matches
+4380,0,2 envoy.png killed 1 kenny.png
+4380,1,no matches
+4380,2,no matches
+4410,0,no matches
+4410,1,no matches
+4410,2,no matches
+4440,0,no matches
+4440,1,no matches
+4440,2,no matches
+4470,0,no matches
+4470,1,no matches
+4470,2,no matches
+4500,0,no matches
+4500,1,no matches
+4500,2,no matches
+4530,0,no matches
+4530,1,no matches
+4530,2,no matches
+4560,0,no matches
+4560,1,no matches
+4560,2,no matches
+4590,0,2 hydra.png killed 1 dashy.png
+4590,1,no matches
+4590,2,no matches
+4620,0,no matches
+4620,1,no matches
+4620,2,no matches
+4650,0,no matches
+4650,1,no matches
+4650,2,no matches
+4680,0,no matches
+4680,1,no matches
+4680,2,no matches
+4710,0,no matches
+4710,1,no matches
+4710,2,no matches
+4740,0,no matches
+4740,1,no matches
+4740,2,no matches
+4770,0,1 kenny.png killed 2 envoy.png
+4770,1,2 hydra.png killed 1 dashy.png
+4770,2,no matches
+4800,0,1 kenny.png killed 2 envoy.png
+4800,1,2 hydra.png killed 1 dashy.png
+4800,2,no matches
+4830,0,1 kenny.png killed 2 envoy.png
+4830,1,2 hydra.png killed 1 dashy.png
+4830,2,no matches
+4860,0,1 kenny.png killed 2 envoy.png
+4860,1,2 hydra.png killed 1 dashy.png
+4860,2,no matches
+4890,0,1 kenny.png killed 2 envoy.png
+4890,1,no matches
+4890,2,no matches
+4920,0,no matches
+4920,1,no matches
+4920,2,no matches
+4950,0,1 shotzzy.png killed 2 scrap.png
+4950,1,1 kenny.png killed 2 envoy.png
+4950,2,no matches
+4980,0,2 hydra.png killed 1 shotzzy.png
+4980,1,1 shotzzy.png killed 2 scrap.png
+4980,2,no matches
+5010,0,2 hydra.png killed 1 shotzzy.png
+5010,1,no matches
+5010,2,no matches
+5040,0,no matches
+5040,1,no matches
+5040,2,no matches
+5070,0,no matches
+5070,1,no matches
+5070,2,no matches
+5100,0,1 pred.png killed 2 hydra.png
+5100,1,2 hydra.png killed 1 shotzzy.png
+5100,2,no matches
+5130,0,1 pred.png killed 2 hydra.png
+5130,1,2 hydra.png killed 1 shotzzy.png
+5130,2,no matches
+5160,0,1 pred.png killed 2 hydra.png
+5160,1,2 hydra.png killed 1 shotzzy.png
+5160,2,no matches
+5190,0,1 pred.png killed 2 hydra.png
+5190,1,2 hydra.png killed 1 shotzzy.png
+5190,2,no matches
+5220,0,2 ghosty.png killed 1 kenny.png
+5220,1,1 pred.png killed 2 hydra.png
+5220,2,no matches
+5250,0,2 ghosty.png killed 1 kenny.png
+5250,1,1 pred.png killed 2 hydra.png
+5250,2,no matches
+5280,0,2 ghosty.png killed 1 kenny.png
+5280,1,1 pred.png killed 2 hydra.png
+5280,2,no matches
+5310,0,no matches
+5310,1,1 pred.png killed 2 hydra.png
+5310,2,no matches
+5340,0,2 ghosty.png killed 1 kenny.png
+5340,1,no matches
+5340,2,no matches
+5370,0,2 ghosty.png killed 1 kenny.png
+5370,1,1 pred.png killed 2 hydra.png
+5370,2,no matches
+5400,0,1 dashy.png killed 2 envoy.png
+5400,1,2 ghosty.png killed 1 kenny.png
+5400,2,no matches
+5430,0,2 scrap.png killed 1 pred.png
+5430,1,no matches
+5430,2,no matches
+5460,0,2 scrap.png killed 1 pred.png
+5460,1,1 dashy.png killed 2 envoy.png
+5460,2,no matches
+5490,0,2 scrap.png killed 1 pred.png
+5490,1,1 dashy.png killed 2 envoy.png
+5490,2,no matches
+5520,0,2 scrap.png killed 1 pred.png
+5520,1,1 dashy.png killed 2 envoy.png
+5520,2,no matches
+5550,0,no matches
+5550,1,1 dashy.png killed 2 envoy.png
+5550,2,no matches
+5580,0,2 scrap.png killed 1 pred.png
+5580,1,1 dashy.png killed 2 envoy.png
+5580,2,no matches
+5610,0,2 scrap.png killed 1 pred.png
+5610,1,1 dashy.png killed 2 envoy.png
+5610,2,no matches
+5640,0,2 scrap.png killed 1 pred.png
+5640,1,1 dashy.png killed 2 envoy.png
+5640,2,no matches
+5670,0,2 scrap.png killed 1 pred.png
+5670,1,1 dashy.png killed 2 envoy.png
+5670,2,no matches
+5700,0,2 scrap.png killed 1 pred.png
+5700,1,no matches
+5700,2,no matches
+5730,0,2 scrap.png killed 1 pred.png
+5730,1,no matches
+5730,2,no matches
+5760,0,1 kenny.png killed 2 ghosty.png
+5760,1,no matches
+5760,2,no matches
+5790,0,1 kenny.png killed 2 ghosty.png
+5790,1,no matches
+5790,2,no matches
+5820,0,1 kenny.png killed 2 ghosty.png
+5820,1,no matches
+5820,2,no matches
+5850,0,no matches
+5850,1,no matches
+5850,2,no matches
+5880,0,2 scrap.png killed 1 shotzzy.png
+5880,1,1 kenny.png killed 2 ghosty.png
+5880,2,no matches
+5910,0,no matches
+5910,1,1 kenny.png killed 2 ghosty.png
+5910,2,no matches
+5940,0,no matches
+5940,1,no matches
+5940,2,no matches
+5970,0,no matches
+5970,1,no matches
+5970,2,no matches
+6000,0,2 scrap.png killed 1 kenny.png
+6000,1,2 scrap.png killed 1 shotzzy.png
+6000,2,no matches
+6030,0,2 scrap.png killed 1 kenny.png
+6030,1,2 scrap.png killed 1 shotzzy.png
+6030,2,no matches
+6060,0,2 scrap.png killed 1 kenny.png
+6060,1,2 scrap.png killed 1 shotzzy.png
+6060,2,no matches
+6090,0,2 scrap.png killed 1 kenny.png
+6090,1,2 scrap.png killed 1 shotzzy.png
+6090,2,no matches
+6120,0,2 scrap.png killed 1 kenny.png
+6120,1,2 scrap.png killed 1 shotzzy.png
+6120,2,no matches
+6150,0,2 scrap.png killed 1 kenny.png
+6150,1,2 scrap.png killed 1 shotzzy.png
+6150,2,no matches
+6180,0,no matches
+6180,1,no matches
+6180,2,no matches
+6210,0,2 scrap.png killed 1 kenny.png
+6210,1,no matches
+6210,2,no matches
+6240,0,2 scrap.png killed 1 kenny.png
+6240,1,no matches
+6240,2,no matches
+6270,0,1 dashy.png killed 2 envoy.png
+6270,1,2 scrap.png killed 1 pred.png
+6270,2,no matches
+6300,0,no matches
+6300,1,no matches
+6300,2,no matches
+6330,0,2 ghosty.png killed 1 shotzzy.png
+6330,1,1 dashy.png killed 2 envoy.png
+6330,2,no matches
+6360,0,2 ghosty.png killed 1 shotzzy.png
+6360,1,1 dashy.png killed 2 envoy.png
+6360,2,no matches
+6390,0,2 ghosty.png killed 1 shotzzy.png
+6390,1,no matches
+6390,2,no matches
+6420,0,2 ghosty.png killed 1 shotzzy.png
+6420,1,1 dashy.png killed 2 envoy.png
+6420,2,2 scrap.png killed 1 pred.png
+6450,0,2 ghosty.png killed 1 shotzzy.png
+6450,1,1 dashy.png killed 2 envoy.png
+6450,2,2 scrap.png killed 1 pred.png
+6480,0,no matches
+6480,1,no matches
+6480,2,no matches
+6510,0,no matches
+6510,1,no matches
+6510,2,no matches
+6540,0,no matches
+6540,1,no matches
+6540,2,no matches
+6570,0,no matches
+6570,1,no matches
+6570,2,no matches
+6600,0,no matches
+6600,1,no matches
+6600,2,no matches
+6630,0,2 scrap.png killed 1 dashy.png
+6630,1,2 ghosty.png killed 1 shotzzy.png
+6630,2,no matches
+6660,0,2 scrap.png killed 1 dashy.png
+6660,1,no matches
+6660,2,no matches
+6690,0,no matches
+6690,1,no matches
+6690,2,no matches
+6720,0,no matches
+6720,1,no matches
+6720,2,no matches
+6750,0,2 scrap.png killed 1 dashy.png
+6750,1,no matches
+6750,2,no matches
+6780,0,no matches
+6780,1,no matches
+6780,2,no matches
+6810,0,no matches
+6810,1,no matches
+6810,2,no matches
+6840,0,no matches
+6840,1,no matches
+6840,2,no matches
+6870,0,2 hydra.png killed 1 kenny.png
+6870,1,no matches
+6870,2,no matches
+6900,0,2 hydra.png killed 1 kenny.png
+6900,1,no matches
+6900,2,no matches
+6930,0,no matches
+6930,1,no matches
+6930,2,no matches
+6960,0,no matches
+6960,1,no matches
+6960,2,no matches
+6990,0,no matches
+6990,1,no matches
+6990,2,no matches
+7020,0,2 hydra.png killed 1 kenny.png
+7020,1,no matches
+7020,2,no matches
+7050,0,no matches
+7050,1,no matches
+7050,2,no matches
+7080,0,no matches
+7080,1,no matches
+7080,2,no matches
+7110,0,no matches
+7110,1,no matches
+7110,2,no matches
+7140,0,2 hydra.png killed 1 kenny.png
+7140,1,no matches
+7140,2,no matches
+7170,0,no matches
+7170,1,no matches
+7170,2,no matches
+7200,0,2 hydra.png killed 1 shotzzy.png
+7200,1,no matches
+7200,2,no matches
+7230,0,no matches
+7230,1,no matches
+7230,2,no matches
+7260,0,no matches
+7260,1,2 scrap.png killed 1 pred.png
+7260,2,no matches
+7290,0,no matches
+7290,1,no matches
+7290,2,no matches
+7320,0,no matches
+7320,1,no matches
+7320,2,no matches
+7350,0,no matches
+7350,1,no matches
+7350,2,no matches
+7380,0,no matches
+7380,1,no matches
+7380,2,no matches
+7410,0,no matches
+7410,1,no matches
+7410,2,no matches
+7440,0,no matches
+7440,1,no matches
+7440,2,no matches
+7470,0,1 dashy.png killed 2 envoy.png
+7470,1,1 dashy.png killed 2 scrap.png
+7470,2,no matches
+7500,0,1 dashy.png killed 2 envoy.png
+7500,1,1 dashy.png killed 2 scrap.png
+7500,2,no matches
+7530,0,no matches
+7530,1,no matches
+7530,2,no matches
+7560,0,1 dashy.png killed 2 envoy.png
+7560,1,no matches
+7560,2,no matches
+7590,0,2 hydra.png killed 1 dashy.png
+7590,1,no matches
+7590,2,no matches
+7620,0,no matches
+7620,1,no matches
+7620,2,no matches
+7650,0,2 hydra.png killed 1 dashy.png
+7650,1,no matches
+7650,2,no matches
+7680,0,no matches
+7680,1,no matches
+7680,2,no matches
+7710,0,2 hydra.png killed 1 dashy.png
+7710,1,no matches
+7710,2,no matches
+7740,0,2 hydra.png killed 1 dashy.png
+7740,1,no matches
+7740,2,no matches
+7770,0,1 pred.png killed 2 ghosty.png
+7770,1,2 hydra.png killed 1 dashy.png
+7770,2,no matches
+7800,0,1 pred.png killed 2 ghosty.png
+7800,1,2 hydra.png killed 1 dashy.png
+7800,2,no matches
+7830,0,1 pred.png killed 2 ghosty.png
+7830,1,2 hydra.png killed 1 dashy.png
+7830,2,no matches
+7860,0,1 pred.png killed 2 ghosty.png
+7860,1,2 hydra.png killed 1 dashy.png
+7860,2,no matches
+7890,0,1 pred.png killed 2 ghosty.png
+7890,1,2 hydra.png killed 1 dashy.png
+7890,2,no matches
+7920,0,1 pred.png killed 2 ghosty.png
+7920,1,no matches
+7920,2,no matches
+7950,0,1 pred.png killed 2 ghosty.png
+7950,1,no matches
+7950,2,no matches
+7980,0,1 pred.png killed 2 ghosty.png
+7980,1,no matches
+7980,2,no matches
+8010,0,1 pred.png killed 2 ghosty.png
+8010,1,no matches
+8010,2,no matches
+8040,0,1 pred.png killed 2 ghosty.png
+8040,1,no matches
+8040,2,no matches
+8070,0,no matches
+8070,1,no matches
+8070,2,no matches
+8100,0,no matches
+8100,1,no matches
+8100,2,no matches
+8130,0,no matches
+8130,1,no matches
+8130,2,no matches
+8160,0,no matches
+8160,1,no matches
+8160,2,no matches
+8190,0,no matches
+8190,1,no matches
+8190,2,no matches
+8220,0,2 envoy.png killed 1 pred.png
+8220,1,no matches
+8220,2,no matches
+8250,0,no matches
+8250,1,no matches
+8250,2,no matches
+8280,0,no matches
+8280,1,no matches
+8280,2,no matches
+8310,0,no matches
+8310,1,no matches
+8310,2,no matches
+8340,0,no matches
+8340,1,no matches
+8340,2,no matches
+8370,0,no matches
+8370,1,no matches
+8370,2,no matches
+8400,0,no matches
+8400,1,1 pred.png killed 2 scrap.png
+8400,2,no matches
+8430,0,1 dashy.png killed 2 scrap.png
+8430,1,no matches
+8430,2,no matches
+8460,0,1 dashy.png killed 2 scrap.png
+8460,1,2 scrap.png killed 1 kenny.png
+8460,2,no matches
+8490,0,no matches
+8490,1,no matches
+8490,2,no matches
+8520,0,1 dashy.png killed 2 scrap.png
+8520,1,2 scrap.png killed 1 kenny.png
+8520,2,no matches
+8550,0,no matches
+8550,1,2 scrap.png killed 1 kenny.png
+8550,2,no matches
+8580,0,1 dashy.png killed 2 scrap.png
+8580,1,2 scrap.png killed 1 kenny.png
+8580,2,no matches
+8610,0,2 hydra.png killed 1 dashy.png
+8610,1,1 dashy.png killed 2 scrap.png
+8610,2,no matches
+8640,0,2 hydra.png killed 1 dashy.png
+8640,1,1 dashy.png killed 2 scrap.png
+8640,2,no matches
+8670,0,no matches
+8670,1,1 dashy.png killed 2 scrap.png
+8670,2,no matches
+8700,0,2 hydra.png killed 1 dashy.png
+8700,1,no matches
+8700,2,no matches
+8730,0,2 hydra.png killed 1 dashy.png
+8730,1,no matches
+8730,2,no matches
+8760,0,no matches
+8760,1,no matches
+8760,2,no matches
+8790,0,2 ghosty.png killed 1 pred.png
+8790,1,no matches
+8790,2,no matches
+8820,0,no matches
+8820,1,no matches
+8820,2,no matches
+8850,0,2 ghosty.png killed 1 pred.png
+8850,1,2 hydra.png killed 1 dashy.png
+8850,2,no matches
+8880,0,2 ghosty.png killed 1 pred.png
+8880,1,no matches
+8880,2,no matches
+8910,0,2 ghosty.png killed 1 pred.png
+8910,1,2 hydra.png killed 1 dashy.png
+8910,2,no matches
+8940,0,2 ghosty.png killed 1 pred.png
+8940,1,no matches
+8940,2,no matches
+8970,0,2 ghosty.png killed 1 pred.png
+8970,1,no matches
+8970,2,no matches
+9000,0,no matches
+9000,1,no matches
+9000,2,no matches
+9030,0,no matches
+9030,1,no matches
+9030,2,no matches
+9060,0,no matches
+9060,1,no matches
+9060,2,no matches
+9090,0,1 kenny.png killed 2 envoy.png
+9090,1,2 ghosty.png killed 1 dashy.png
+9090,2,no matches
+9120,0,1 kenny.png killed 2 envoy.png
+9120,1,2 ghosty.png killed 1 dashy.png
+9120,2,no matches
+9150,0,1 kenny.png killed 2 envoy.png
+9150,1,2 ghosty.png killed 1 dashy.png
+9150,2,no matches
+9180,0,no matches
+9180,1,no matches
+9180,2,no matches
+9210,0,1 shotzzy.png killed 2 ghosty.png
+9210,1,no matches
+9210,2,no matches
+9240,0,1 shotzzy.png killed 2 ghosty.png
+9240,1,1 kenny.png killed 2 envoy.png
+9240,2,no matches
+9270,0,no matches
+9270,1,no matches
+9270,2,no matches
+9300,0,no matches
+9300,1,no matches
+9300,2,no matches
+9330,0,no matches
+9330,1,no matches
+9330,2,no matches
+9360,0,1 shotzzy.png killed 2 ghosty.png
+9360,1,1 kenny.png killed 2 envoy.png
+9360,2,no matches
+9390,0,1 shotzzy.png killed 2 ghosty.png
+9390,1,1 kenny.png killed 2 envoy.png
+9390,2,no matches
+9420,0,1 shotzzy.png killed 2 ghosty.png
+9420,1,no matches
+9420,2,no matches
+9450,0,1 shotzzy.png killed 2 ghosty.png
+9450,1,no matches
+9450,2,no matches
+9480,0,1 shotzzy.png killed 2 ghosty.png
+9480,1,no matches
+9480,2,no matches
+9510,0,no matches
+9510,1,no matches
+9510,2,no matches
+9540,0,no matches
+9540,1,no matches
+9540,2,no matches
+9570,0,no matches
+9570,1,no matches
+9570,2,no matches
+9600,0,no matches
+9600,1,no matches
+9600,2,no matches
+9630,0,no matches
+9630,1,no matches
+9630,2,no matches
+9660,0,no matches
+9660,1,no matches
+9660,2,no matches
+9690,0,no matches
+9690,1,1 shotzzy.png killed 2 envoy.png
+9690,2,no matches
+9720,0,no matches
+9720,1,no matches
+9720,2,no matches
+9750,0,no matches
+9750,1,1 dashy.png killed 2 scrap.png
+9750,2,no matches
+9780,0,no matches
+9780,1,1 dashy.png killed 2 scrap.png
+9780,2,no matches
+9810,0,no matches
+9810,1,no matches
+9810,2,no matches
+9840,0,2 ghosty.png killed 1 shotzzy.png
+9840,1,1 dashy.png killed 2 scrap.png
+9840,2,no matches
+9870,0,2 ghosty.png killed 1 shotzzy.png
+9870,1,1 dashy.png killed 2 scrap.png
+9870,2,no matches
+9900,0,no matches
+9900,1,1 dashy.png killed 2 scrap.png
+9900,2,no matches
+9930,0,no matches
+9930,1,no matches
+9930,2,no matches
+9960,0,2 ghosty.png killed 1 shotzzy.png
+9960,1,no matches
+9960,2,no matches
+9990,0,2 ghosty.png killed 1 shotzzy.png
+9990,1,no matches
+9990,2,no matches
+10020,0,no matches
+10020,1,no matches
+10020,2,no matches
+10050,0,no matches
+10050,1,no matches
+10050,2,no matches
+10080,0,no matches
+10080,1,no matches
+10080,2,no matches
+10110,0,no matches
+10110,1,no matches
+10110,2,no matches
+10140,0,no matches
+10140,1,no matches
+10140,2,no matches
+10170,0,no matches
+10170,1,no matches
+10170,2,no matches
+10200,0,2 ghosty.png killed 1 pred.png
+10200,1,2 hydra.png killed 1 dashy.png
+10200,2,no matches
+10230,0,no matches
+10230,1,no matches
+10230,2,no matches
+10260,0,2 envoy.png killed 1 kenny.png
+10260,1,no matches
+10260,2,no matches
+10290,0,no matches
+10290,1,no matches
+10290,2,no matches
+10320,0,no matches
+10320,1,no matches
+10320,2,no matches
+10350,0,1 shotzzy.png killed 2 hydra.png
+10350,1,no matches
+10350,2,no matches
+10380,0,1 shotzzy.png killed 2 hydra.png
+10380,1,2 envoy.png killed 1 kenny.png
+10380,2,no matches
+10410,0,1 shotzzy.png killed 2 hydra.png
+10410,1,2 envoy.png killed 1 kenny.png
+10410,2,no matches
+10440,0,no matches
+10440,1,2 envoy.png killed 1 kenny.png
+10440,2,no matches
+10470,0,1 shotzzy.png killed 2 hydra.png
+10470,1,2 envoy.png killed 1 kenny.png
+10470,2,no matches
+10500,0,no matches
+10500,1,no matches
+10500,2,no matches
+10530,0,2 envoy.png killed 1 shotzzy.png
+10530,1,1 shotzzy.png killed 2 hydra.png
+10530,2,no matches
+10560,0,no matches
+10560,1,no matches
+10560,2,no matches
+10590,0,no matches
+10590,1,1 shotzzy.png killed 2 hydra.png
+10590,2,no matches
+10620,0,2 envoy.png killed 1 shotzzy.png
+10620,1,no matches
+10620,2,no matches
+10650,0,no matches
+10650,1,no matches
+10650,2,no matches
+10680,0,2 envoy.png killed 1 shotzzy.png
+10680,1,no matches
+10680,2,no matches
+10710,0,2 envoy.png killed 1 shotzzy.png
+10710,1,no matches
+10710,2,no matches
+10740,0,2 envoy.png killed 1 shotzzy.png
+10740,1,no matches
+10740,2,no matches
+10770,0,2 envoy.png killed 1 shotzzy.png
+10770,1,no matches
+10770,2,no matches
+10800,0,2 envoy.png killed 1 shotzzy.png
+10800,1,no matches
+10800,2,no matches
+10830,0,1 kenny.png killed 2 hydra.png
+10830,1,no matches
+10830,2,no matches
+10860,0,no matches
+10860,1,no matches
+10860,2,no matches
+10890,0,1 kenny.png killed 2 hydra.png
+10890,1,no matches
+10890,2,no matches
+10920,0,1 kenny.png killed 2 hydra.png
+10920,1,no matches
+10920,2,no matches
+10950,0,1 kenny.png killed 2 hydra.png
+10950,1,no matches
+10950,2,no matches
+10980,0,1 kenny.png killed 2 hydra.png
+10980,1,no matches
+10980,2,no matches
+11010,0,1 kenny.png killed 2 hydra.png
+11010,1,no matches
+11010,2,no matches
+11040,0,1 kenny.png killed 2 hydra.png
+11040,1,no matches
+11040,2,no matches
+11070,0,2 scrap.png killed 1 kenny.png
+11070,1,1 kenny.png killed 2 hydra.png
+11070,2,no matches
+11100,0,2 scrap.png killed 1 kenny.png
+11100,1,1 kenny.png killed 2 hydra.png
+11100,2,no matches
+11130,0,no matches
+11130,1,no matches
+11130,2,no matches
+11160,0,no matches
+11160,1,no matches
+11160,2,no matches
+11190,0,1 dashy.png killed 2 ghosty.png
+11190,1,1 shotzzy.png killed 2 scrap.png
+11190,2,no matches
+11220,0,1 dashy.png killed 2 ghosty.png
+11220,1,1 shotzzy.png killed 2 scrap.png
+11220,2,no matches
+11250,0,1 dashy.png killed 2 ghosty.png
+11250,1,1 shotzzy.png killed 2 scrap.png
+11250,2,no matches
+11280,0,no matches
+11280,1,no matches
+11280,2,no matches
+11310,0,no matches
+11310,1,no matches
+11310,2,no matches
+11340,0,no matches
+11340,1,1 dashy.png killed 2 ghosty.png
+11340,2,no matches
+11370,0,2 envoy.png killed 1 dashy.png
+11370,1,1 dashy.png killed 2 ghosty.png
+11370,2,no matches
+11400,0,1 pred.png killed 2 envoy.png
+11400,1,2 envoy.png killed 1 dashy.png
+11400,2,no matches
+11430,0,1 pred.png killed 2 envoy.png
+11430,1,2 envoy.png killed 1 dashy.png
+11430,2,no matches
+11460,0,1 pred.png killed 2 envoy.png
+11460,1,2 envoy.png killed 1 dashy.png
+11460,2,no matches
+11490,0,1 pred.png killed 2 envoy.png
+11490,1,2 envoy.png killed 1 dashy.png
+11490,2,no matches
+11520,0,no matches
+11520,1,no matches
+11520,2,no matches
+11550,0,2 hydra.png killed 1 shotzzy.png
+11550,1,no matches
+11550,2,no matches
+11580,0,2 hydra.png killed 1 shotzzy.png
+11580,1,no matches
+11580,2,no matches
+11610,0,2 hydra.png killed 1 shotzzy.png
+11610,1,1 pred.png killed 2 envoy.png
+11610,2,no matches
+11640,0,2 hydra.png killed 1 shotzzy.png
+11640,1,1 pred.png killed 2 envoy.png
+11640,2,no matches
+11670,0,no matches
+11670,1,no matches
+11670,2,no matches
+11700,0,2 hydra.png killed 1 shotzzy.png
+11700,1,no matches
+11700,2,no matches
+11730,0,2 hydra.png killed 1 pred.png
+11730,1,no matches
+11730,2,no matches
+11760,0,2 hydra.png killed 1 pred.png
+11760,1,2 hydra.png killed 1 shotzzy.png
+11760,2,no matches
+11790,0,2 hydra.png killed 1 pred.png
+11790,1,2 hydra.png killed 1 shotzzy.png
+11790,2,no matches
+11820,0,no matches
+11820,1,no matches
+11820,2,no matches
+11850,0,1 kenny.png killed 2 hydra.png
+11850,1,2 hydra.png killed 1 pred.png
+11850,2,no matches
+11880,0,1 kenny.png killed 2 hydra.png
+11880,1,2 hydra.png killed 1 pred.png
+11880,2,no matches
+11910,0,1 kenny.png killed 2 hydra.png
+11910,1,2 hydra.png killed 1 pred.png
+11910,2,no matches
+11940,0,1 kenny.png killed 2 hydra.png
+11940,1,2 hydra.png killed 1 pred.png
+11940,2,no matches
+11970,0,no matches
+11970,1,no matches
+11970,2,no matches
+12000,0,1 kenny.png killed 2 hydra.png
+12000,1,2 hydra.png killed 1 pred.png
+12000,2,no matches
+12030,0,1 dashy.png killed 2 ghosty.png
+12030,1,2 ghosty.png killed 1 kenny.png
+12030,2,no matches
+12060,0,1 dashy.png killed 2 ghosty.png
+12060,1,2 ghosty.png killed 1 kenny.png
+12060,2,no matches
+12090,0,1 dashy.png killed 2 ghosty.png
+12090,1,2 ghosty.png killed 1 kenny.png
+12090,2,no matches
+12120,0,no matches
+12120,1,no matches
+12120,2,1 kenny.png killed 2 hydra.png
+12150,0,1 dashy.png killed 2 scrap.png
+12150,1,1 dashy.png killed 2 ghosty.png
+12150,2,no matches
+12180,0,1 dashy.png killed 2 scrap.png
+12180,1,1 dashy.png killed 2 ghosty.png
+12180,2,no matches
+12210,0,1 dashy.png killed 2 scrap.png
+12210,1,1 dashy.png killed 2 ghosty.png
+12210,2,no matches
+12240,0,1 dashy.png killed 2 scrap.png
+12240,1,1 dashy.png killed 2 ghosty.png
+12240,2,no matches
+12270,0,1 dashy.png killed 2 scrap.png
+12270,1,1 dashy.png killed 2 ghosty.png
+12270,2,no matches
+12300,0,1 dashy.png killed 2 scrap.png
+12300,1,1 dashy.png killed 2 ghosty.png
+12300,2,no matches
+12330,0,2 envoy.png killed 1 shotzzy.png
+12330,1,1 dashy.png killed 2 scrap.png
+12330,2,no matches
+12360,0,2 envoy.png killed 1 shotzzy.png
+12360,1,1 dashy.png killed 2 scrap.png
+12360,2,no matches
+12390,0,no matches
+12390,1,no matches
+12390,2,no matches
+12420,0,2 envoy.png killed 1 shotzzy.png
+12420,1,no matches
+12420,2,no matches
+12450,0,2 envoy.png killed 1 shotzzy.png
+12450,1,no matches
+12450,2,no matches
+12480,0,no matches
+12480,1,no matches
+12480,2,no matches
+12510,0,no matches
+12510,1,no matches
+12510,2,no matches
+12540,0,2 envoy.png killed 1 shotzzy.png
+12540,1,no matches
+12540,2,no matches
+12570,0,no matches
+12570,1,2 envoy.png killed 1 shotzzy.png
+12570,2,no matches
+12600,0,1 pred.png killed 2 envoy.png
+12600,1,2 envoy.png killed 1 shotzzy.png
+12600,2,no matches
+12630,0,1 pred.png killed 2 envoy.png
+12630,1,no matches
+12630,2,no matches
+12660,0,no matches
+12660,1,no matches
+12660,2,no matches
+12690,0,1 dashy.png killed 2 ghosty.png
+12690,1,no matches
+12690,2,no matches
+12720,0,1 dashy.png killed 2 ghosty.png
+12720,1,1 pred.png killed 2 envoy.png
+12720,2,no matches
+12750,0,1 dashy.png killed 2 ghosty.png
+12750,1,1 pred.png killed 2 envoy.png
+12750,2,no matches
+12780,0,1 dashy.png killed 2 ghosty.png
+12780,1,1 pred.png killed 2 envoy.png
+12780,2,no matches
+12810,0,1 dashy.png killed 2 ghosty.png
+12810,1,1 pred.png killed 2 envoy.png
+12810,2,no matches
+12840,0,no matches
+12840,1,1 pred.png killed 2 envoy.png
+12840,2,no matches
+12870,0,no matches
+12870,1,1 dashy.png killed 2 ghosty.png
+12870,2,no matches
+12900,0,no matches
+12900,1,no matches
+12900,2,no matches
+12930,0,2 hydra.png killed 1 pred.png
+12930,1,no matches
+12930,2,no matches
+12960,0,2 hydra.png killed 1 pred.png
+12960,1,2 scrap.png killed 1 kenny.png
+12960,2,no matches
+12990,0,2 hydra.png killed 1 pred.png
+12990,1,2 scrap.png killed 1 kenny.png
+12990,2,no matches
+13020,0,1 dashy.png killed 2 scrap.png
+13020,1,2 hydra.png killed 1 pred.png
+13020,2,no matches
+13050,0,1 dashy.png killed 2 scrap.png
+13050,1,2 hydra.png killed 1 pred.png
+13050,2,no matches
+13080,0,1 dashy.png killed 2 scrap.png
+13080,1,2 hydra.png killed 1 pred.png
+13080,2,no matches
+13110,0,1 dashy.png killed 2 scrap.png
+13110,1,2 hydra.png killed 1 pred.png
+13110,2,no matches
+13140,0,1 dashy.png killed 2 scrap.png
+13140,1,no matches
+13140,2,no matches
+13170,0,1 shotzzy.png killed 2 hydra.png
+13170,1,no matches
+13170,2,no matches
+13200,0,1 shotzzy.png killed 2 hydra.png
+13200,1,no matches
+13200,2,no matches
+13230,0,no matches
+13230,1,no matches
+13230,2,no matches
+13260,0,no matches
+13260,1,no matches
+13260,2,no matches
+13290,0,no matches
+13290,1,2 hydra.png killed 1 dashy.png
+13290,2,no matches
+13320,0,no matches
+13320,1,2 hydra.png killed 1 dashy.png
+13320,2,no matches
+13350,0,1 shotzzy.png killed 2 hydra.png
+13350,1,2 hydra.png killed 1 dashy.png
+13350,2,no matches
+13380,0,1 shotzzy.png killed 2 envoy.png
+13380,1,1 shotzzy.png killed 2 hydra.png
+13380,2,no matches
+13410,0,no matches
+13410,1,no matches
+13410,2,no matches
+13440,0,1 shotzzy.png killed 2 envoy.png
+13440,1,no matches
+13440,2,no matches
+13470,0,1 shotzzy.png killed 2 envoy.png
+13470,1,1 shotzzy.png killed 2 hydra.png
+13470,2,no matches
+13500,0,2 ghosty.png killed 1 shotzzy.png
+13500,1,no matches
+13500,2,no matches
+13530,0,no matches
+13530,1,1 shotzzy.png killed 2 envoy.png
+13530,2,no matches
+13560,0,no matches
+13560,1,1 shotzzy.png killed 2 envoy.png
+13560,2,no matches
+13590,0,2 ghosty.png killed 1 shotzzy.png
+13590,1,1 shotzzy.png killed 2 envoy.png
+13590,2,no matches
+13620,0,2 ghosty.png killed 1 shotzzy.png
+13620,1,1 shotzzy.png killed 2 envoy.png
+13620,2,no matches
+13650,0,2 ghosty.png killed 1 shotzzy.png
+13650,1,1 shotzzy.png killed 2 envoy.png
+13650,2,no matches
+13680,0,no matches
+13680,1,no matches
+13680,2,no matches
+13710,0,no matches
+13710,1,no matches
+13710,2,no matches
+13740,0,no matches
+13740,1,no matches
+13740,2,no matches
+13770,0,2 ghosty.png killed 1 kenny.png
+13770,1,no matches
+13770,2,no matches
+13800,0,2 ghosty.png killed 1 kenny.png
+13800,1,no matches
+13800,2,no matches
+13830,0,2 ghosty.png killed 1 kenny.png
+13830,1,no matches
+13830,2,no matches
+13860,0,2 ghosty.png killed 1 kenny.png
+13860,1,no matches
+13860,2,no matches
+13890,0,2 ghosty.png killed 1 kenny.png
+13890,1,no matches
+13890,2,no matches
+13920,0,2 ghosty.png killed 1 kenny.png
+13920,1,no matches
+13920,2,no matches
+13950,0,2 ghosty.png killed 1 kenny.png
+13950,1,no matches
+13950,2,no matches
+13980,0,no matches
+13980,1,no matches
+13980,2,no matches
+14010,0,no matches
+14010,1,no matches
+14010,2,no matches
+14040,0,no matches
+14040,1,no matches
+14040,2,no matches
+14070,0,no matches
+14070,1,no matches
+14070,2,no matches
+14100,0,no matches
+14100,1,no matches
+14100,2,no matches
+14130,0,no matches
+14130,1,no matches
+14130,2,no matches
+14160,0,1 pred.png killed 2 scrap.png
+14160,1,no matches
+14160,2,no matches
+14190,0,no matches
+14190,1,1 pred.png killed 2 scrap.png
+14190,2,no matches
+14220,0,no matches
+14220,1,no matches
+14220,2,no matches
+14250,0,no matches
+14250,1,1 pred.png killed 2 scrap.png
+14250,2,no matches
+14280,0,no matches
+14280,1,1 pred.png killed 2 scrap.png
+14280,2,no matches
+14310,0,no matches
+14310,1,1 pred.png killed 2 scrap.png
+14310,2,no matches
+14340,0,no matches
+14340,1,1 pred.png killed 2 scrap.png
+14340,2,no matches
+14370,0,no matches
+14370,1,1 pred.png killed 2 scrap.png
+14370,2,no matches
+14400,0,no matches
+14400,1,no matches
+14400,2,no matches
+14430,0,2 envoy.png killed 1 pred.png
+14430,1,no matches
+14430,2,no matches
+14460,0,2 envoy.png killed 1 pred.png
+14460,1,no matches
+14460,2,no matches
+14490,0,2 envoy.png killed 1 pred.png
+14490,1,no matches
+14490,2,no matches
+14520,0,2 envoy.png killed 1 pred.png
+14520,1,no matches
+14520,2,no matches
+14550,0,2 envoy.png killed 1 pred.png
+14550,1,no matches
+14550,2,no matches
+14580,0,2 envoy.png killed 1 pred.png
+14580,1,no matches
+14580,2,no matches
+14610,0,2 envoy.png killed 1 pred.png
+14610,1,no matches
+14610,2,no matches
+14640,0,2 envoy.png killed 1 pred.png
+14640,1,no matches
+14640,2,no matches
+14670,0,no matches
+14670,1,no matches
+14670,2,no matches
+14700,0,no matches
+14700,1,no matches
+14700,2,no matches
+14730,0,no matches
+14730,1,no matches
+14730,2,no matches
+14760,0,no matches
+14760,1,no matches
+14760,2,no matches
+14790,0,no matches
+14790,1,no matches
+14790,2,no matches
+14820,0,no matches
+14820,1,no matches
+14820,2,no matches
+14850,0,no matches
+14850,1,no matches
+14850,2,no matches
+14880,0,no matches
+14880,1,no matches
+14880,2,no matches
+14910,0,no matches
+14910,1,no matches
+14910,2,no matches
+14940,0,no matches
+14940,1,no matches
+14940,2,no matches
+14970,0,no matches
+14970,1,no matches
+14970,2,no matches
+15000,0,no matches
+15000,1,no matches
+15000,2,no matches
+15030,0,2 envoy.png killed 1 pred.png
+15030,1,no matches
+15030,2,no matches
+15060,0,no matches
+15060,1,no matches
+15060,2,no matches
+15090,0,2 envoy.png killed 1 pred.png
+15090,1,no matches
+15090,2,no matches
+15120,0,2 hydra.png killed 1 dashy.png
+15120,1,2 envoy.png killed 1 pred.png
+15120,2,no matches
+15150,0,no matches
+15150,1,no matches
+15150,2,no matches
+15180,0,no matches
+15180,1,2 envoy.png killed 1 pred.png
+15180,2,no matches
+15210,0,no matches
+15210,1,no matches
+15210,2,no matches
+15240,0,no matches
+15240,1,no matches
+15240,2,no matches
+15270,0,no matches
+15270,1,2 hydra.png killed 1 dashy.png
+15270,2,no matches
+15300,0,no matches
+15300,1,no matches
+15300,2,no matches
+15330,0,no matches
+15330,1,1 shotzzy.png killed 2 ghosty.png
+15330,2,no matches
+15360,0,2 scrap.png killed 1 kenny.png
+15360,1,no matches
+15360,2,no matches
+15390,0,2 scrap.png killed 1 kenny.png
+15390,1,1 shotzzy.png killed 2 ghosty.png
+15390,2,no matches
+15420,0,no matches
+15420,1,no matches
+15420,2,no matches
+15450,0,2 scrap.png killed 1 kenny.png
+15450,1,1 shotzzy.png killed 2 ghosty.png
+15450,2,no matches
+15480,0,no matches
+15480,1,no matches
+15480,2,no matches
+15510,0,2 scrap.png killed 1 kenny.png
+15510,1,1 shotzzy.png killed 2 ghosty.png
+15510,2,no matches
+15540,0,2 scrap.png killed 1 kenny.png
+15540,1,no matches
+15540,2,no matches
+15570,0,2 scrap.png killed 1 kenny.png
+15570,1,no matches
+15570,2,no matches
+15600,0,no matches
+15600,1,no matches
+15600,2,no matches
+15630,0,no matches
+15630,1,no matches
+15630,2,no matches
+15660,0,no matches
+15660,1,no matches
+15660,2,no matches
+15690,0,no matches
+15690,1,no matches
+15690,2,no matches
+15720,0,no matches
+15720,1,no matches
+15720,2,no matches
+15750,0,no matches
+15750,1,no matches
+15750,2,no matches
+15780,0,no matches
+15780,1,no matches
+15780,2,no matches
+15810,0,no matches
+15810,1,no matches
+15810,2,no matches
+15840,0,no matches
+15840,1,no matches
+15840,2,no matches
+15870,0,no matches
+15870,1,no matches
+15870,2,no matches
+15900,0,no matches
+15900,1,no matches
+15900,2,no matches
+15930,0,no matches
+15930,1,no matches
+15930,2,no matches
+15960,0,2 scrap.png killed 1 kenny.png
+15960,1,no matches
+15960,2,no matches
+15990,0,no matches
+15990,1,no matches
+15990,2,no matches
+16020,0,1 dashy.png killed 2 envoy.png
+16020,1,2 scrap.png killed 1 kenny.png
+16020,2,no matches
+16050,0,2 hydra.png killed 1 pred.png
+16050,1,no matches
+16050,2,no matches
+16080,0,no matches
+16080,1,no matches
+16080,2,no matches
+16110,0,no matches
+16110,1,no matches
+16110,2,no matches
+16140,0,no matches
+16140,1,no matches
+16140,2,no matches
+16170,0,1 dashy.png killed 2 ghosty.png
+16170,1,no matches
+16170,2,no matches
+16200,0,1 dashy.png killed 2 ghosty.png
+16200,1,2 hydra.png killed 1 pred.png
+16200,2,no matches
+16230,0,1 dashy.png killed 2 ghosty.png
+16230,1,2 hydra.png killed 1 pred.png
+16230,2,no matches
+16260,0,1 dashy.png killed 2 ghosty.png
+16260,1,2 hydra.png killed 1 pred.png
+16260,2,no matches
+16290,0,1 dashy.png killed 2 ghosty.png
+16290,1,2 hydra.png killed 1 pred.png
+16290,2,no matches
+16320,0,no matches
+16320,1,no matches
+16320,2,no matches
+16350,0,no matches
+16350,1,no matches
+16350,2,no matches
+16380,0,2 scrap.png killed 1 shotzzy.png
+16380,1,1 dashy.png killed 2 hydra.png
+16380,2,no matches
+16410,0,2 scrap.png killed 1 shotzzy.png
+16410,1,1 dashy.png killed 2 hydra.png
+16410,2,no matches
+16440,0,2 scrap.png killed 1 shotzzy.png
+16440,1,1 dashy.png killed 2 hydra.png
+16440,2,no matches
+16470,0,2 scrap.png killed 1 shotzzy.png
+16470,1,1 dashy.png killed 2 hydra.png
+16470,2,no matches
+16500,0,no matches
+16500,1,1 dashy.png killed 2 hydra.png
+16500,2,no matches
+16530,0,2 scrap.png killed 1 shotzzy.png
+16530,1,1 dashy.png killed 2 hydra.png
+16530,2,no matches
+16560,0,1 kenny.png killed 2 scrap.png
+16560,1,2 scrap.png killed 1 shotzzy.png
+16560,2,no matches
+16590,0,no matches
+16590,1,2 scrap.png killed 1 shotzzy.png
+16590,2,no matches
+16620,0,1 kenny.png killed 2 scrap.png
+16620,1,2 scrap.png killed 1 shotzzy.png
+16620,2,no matches
+16650,0,no matches
+16650,1,2 scrap.png killed 1 shotzzy.png
+16650,2,no matches
+16680,0,no matches
+16680,1,no matches
+16680,2,no matches
+16710,0,1 kenny.png killed 2 scrap.png
+16710,1,no matches
+16710,2,no matches
+16740,0,1 pred.png killed 2 ghosty.png
+16740,1,1 kenny.png killed 2 scrap.png
+16740,2,no matches
+16770,0,1 pred.png killed 2 ghosty.png
+16770,1,1 kenny.png killed 2 scrap.png
+16770,2,no matches
+16800,0,1 pred.png killed 2 ghosty.png
+16800,1,1 kenny.png killed 2 scrap.png
+16800,2,no matches
+16830,0,1 kenny.png killed 2 hydra.png
+16830,1,1 pred.png killed 2 ghosty.png
+16830,2,no matches
+16860,0,1 kenny.png killed 2 hydra.png
+16860,1,1 pred.png killed 2 ghosty.png
+16860,2,no matches
+16890,0,no matches
+16890,1,no matches
+16890,2,no matches
+16920,0,no matches
+16920,1,no matches
+16920,2,no matches
+16950,0,no matches
+16950,1,no matches
+16950,2,no matches
+16980,0,2 envoy.png killed 1 dashy.png
+16980,1,1 kenny.png killed 2 hydra.png
+16980,2,no matches
+17010,0,2 envoy.png killed 1 dashy.png
+17010,1,1 kenny.png killed 2 hydra.png
+17010,2,no matches
+17040,0,2 envoy.png killed 1 dashy.png
+17040,1,1 kenny.png killed 2 hydra.png
+17040,2,no matches
+17070,0,2 envoy.png killed 1 dashy.png
+17070,1,no matches
+17070,2,no matches
+17100,0,2 envoy.png killed 1 dashy.png
+17100,1,no matches
+17100,2,no matches
+17130,0,no matches
+17130,1,no matches
+17130,2,no matches
+17160,0,2 envoy.png killed 1 dashy.png
+17160,1,no matches
+17160,2,no matches
+17190,0,2 envoy.png killed 1 dashy.png
+17190,1,no matches
+17190,2,no matches
+17220,0,2 envoy.png killed 1 dashy.png
+17220,1,no matches
+17220,2,no matches
+17250,0,no matches
+17250,1,no matches
+17250,2,no matches
+17280,0,no matches
+17280,1,no matches
+17280,2,no matches
+17310,0,no matches
+17310,1,no matches
+17310,2,no matches
+17340,0,no matches
+17340,1,no matches
+17340,2,no matches
+17370,0,no matches
+17370,1,no matches
+17370,2,no matches
+17400,0,no matches
+17400,1,no matches
+17400,2,no matches
+17430,0,no matches
+17430,1,no matches
+17430,2,no matches
+17460,0,no matches
+17460,1,no matches
+17460,2,no matches
+17490,0,2 hydra.png killed 1 pred.png
+17490,1,no matches
+17490,2,no matches
+17520,0,2 hydra.png killed 1 pred.png
+17520,1,no matches
+17520,2,no matches
+17550,0,2 hydra.png killed 1 pred.png
+17550,1,no matches
+17550,2,no matches
+17580,0,2 hydra.png killed 1 pred.png
+17580,1,no matches
+17580,2,no matches
+17610,0,2 hydra.png killed 1 pred.png
+17610,1,no matches
+17610,2,no matches
+17640,0,2 hydra.png killed 1 pred.png
+17640,1,no matches
+17640,2,no matches
+17670,0,2 hydra.png killed 1 pred.png
+17670,1,no matches
+17670,2,no matches
+17700,0,2 hydra.png killed 1 pred.png
+17700,1,no matches
+17700,2,no matches
+17730,0,no matches
+17730,1,no matches
+17730,2,no matches
+17760,0,1 shotzzy.png killed 2 scrap.png
+17760,1,2 hydra.png killed 1 pred.png
+17760,2,no matches
+17790,0,1 shotzzy.png killed 2 scrap.png
+17790,1,no matches
+17790,2,no matches
+17820,0,1 shotzzy.png killed 2 scrap.png
+17820,1,no matches
+17820,2,no matches
+17850,0,no matches
+17850,1,no matches
+17850,2,no matches
+17880,0,no matches
+17880,1,no matches
+17880,2,no matches
+17910,0,no matches
+17910,1,no matches
+17910,2,no matches
+17940,0,no matches
+17940,1,no matches
+17940,2,no matches
+17970,0,no matches
+17970,1,2 ghosty.png killed 1 kenny.png
+17970,2,no matches
+18000,0,2 hydra.png killed 1 dashy.png
+18000,1,2 ghosty.png killed 1 kenny.png
+18000,2,no matches
+18030,0,no matches
+18030,1,2 ghosty.png killed 1 kenny.png
+18030,2,no matches
+18060,0,2 hydra.png killed 1 dashy.png
+18060,1,2 ghosty.png killed 1 kenny.png
+18060,2,no matches
+18090,0,2 hydra.png killed 1 dashy.png
+18090,1,2 ghosty.png killed 1 kenny.png
+18090,2,no matches
+18120,0,2 hydra.png killed 1 dashy.png
+18120,1,2 ghosty.png killed 1 kenny.png
+18120,2,no matches
+18150,0,2 hydra.png killed 1 dashy.png
+18150,1,2 ghosty.png killed 1 kenny.png
+18150,2,no matches
+18180,0,2 hydra.png killed 1 dashy.png
+18180,1,no matches
+18180,2,no matches
+18210,0,2 hydra.png killed 1 dashy.png
+18210,1,no matches
+18210,2,no matches
+18240,0,2 hydra.png killed 1 dashy.png
+18240,1,no matches
+18240,2,no matches
+18270,0,2 hydra.png killed 1 dashy.png
+18270,1,no matches
+18270,2,no matches
+18300,0,no matches
+18300,1,no matches
+18300,2,no matches
+18330,0,no matches
+18330,1,no matches
+18330,2,no matches
+18360,0,no matches
+18360,1,no matches
+18360,2,no matches
+18390,0,no matches
+18390,1,no matches
+18390,2,no matches
+18420,0,no matches
+18420,1,no matches
+18420,2,no matches
+18450,0,no matches
+18450,1,no matches
+18450,2,no matches
+18480,0,no matches
+18480,1,no matches
+18480,2,no matches
+18510,0,no matches
+18510,1,no matches
+18510,2,no matches
+18540,0,no matches
+18540,1,no matches
+18540,2,no matches
+18570,0,no matches
+18570,1,no matches
+18570,2,no matches
+18600,0,no matches
+18600,1,no matches
+18600,2,no matches
+18630,0,no matches
+18630,1,no matches
+18630,2,no matches
+18660,0,no matches
+18660,1,no matches
+18660,2,no matches
+18690,0,no matches
+18690,1,no matches
+18690,2,no matches
+18720,0,no matches
+18720,1,no matches
+18720,2,no matches
+18750,0,no matches
+18750,1,no matches
+18750,2,no matches
+18780,0,1 shotzzy.png killed 2 scrap.png
+18780,1,no matches
+18780,2,no matches
+18810,0,1 pred.png killed 2 hydra.png
+18810,1,no matches
+18810,2,no matches
+18840,0,1 pred.png killed 2 hydra.png
+18840,1,no matches
+18840,2,no matches
+18870,0,no matches
+18870,1,no matches
+18870,2,no matches
+18900,0,no matches
+18900,1,no matches
+18900,2,no matches
+18930,0,no matches
+18930,1,no matches
+18930,2,no matches
+18960,0,no matches
+18960,1,no matches
+18960,2,no matches
+18990,0,1 shotzzy.png killed 2 ghosty.png
+18990,1,2 ghosty.png killed 1 dashy.png
+18990,2,no matches
+19020,0,no matches
+19020,1,no matches
+19020,2,no matches
+19050,0,no matches
+19050,1,no matches
+19050,2,no matches
+19080,0,no matches
+19080,1,no matches
+19080,2,no matches
+19110,0,no matches
+19110,1,1 shotzzy.png killed 2 ghosty.png
+19110,2,no matches
+19140,0,2 envoy.png killed 1 kenny.png
+19140,1,1 shotzzy.png killed 2 ghosty.png
+19140,2,no matches
+19170,0,2 envoy.png killed 1 kenny.png
+19170,1,1 shotzzy.png killed 2 ghosty.png
+19170,2,no matches
+19200,0,no matches
+19200,1,no matches
+19200,2,no matches
+19230,0,2 envoy.png killed 1 kenny.png
+19230,1,1 shotzzy.png killed 2 ghosty.png
+19230,2,no matches
+19260,0,no matches
+19260,1,no matches
+19260,2,no matches
+19290,0,no matches
+19290,1,no matches
+19290,2,no matches
+19320,0,2 envoy.png killed 1 pred.png
+19320,1,no matches
+19320,2,no matches
+19350,0,2 envoy.png killed 1 pred.png
+19350,1,2 envoy.png killed 1 kenny.png
+19350,2,no matches
+19380,0,2 envoy.png killed 1 pred.png
+19380,1,no matches
+19380,2,no matches
+19410,0,2 envoy.png killed 1 pred.png
+19410,1,no matches
+19410,2,no matches
+19440,0,no matches
+19440,1,2 envoy.png killed 1 pred.png
+19440,2,no matches
+19470,0,no matches
+19470,1,2 envoy.png killed 1 pred.png
+19470,2,no matches
+19500,0,no matches
+19500,1,no matches
+19500,2,no matches
+19530,0,no matches
+19530,1,no matches
+19530,2,no matches
+19560,0,no matches
+19560,1,no matches
+19560,2,no matches
+19590,0,no matches
+19590,1,no matches
+19590,2,no matches
+19620,0,no matches
+19620,1,no matches
+19620,2,no matches
+19650,0,no matches
+19650,1,no matches
+19650,2,no matches
+19680,0,no matches
+19680,1,no matches
+19680,2,no matches
+19710,0,no matches
+19710,1,no matches
+19710,2,no matches
+19740,0,no matches
+19740,1,no matches
+19740,2,no matches
+19770,0,no matches
+19770,1,no matches
+19770,2,no matches
+19800,0,no matches
+19800,1,no matches
+19800,2,no matches
+19830,0,no matches
+19830,1,no matches
+19830,2,no matches
+19860,0,no matches
+19860,1,no matches
+19860,2,no matches
+19890,0,no matches
+19890,1,no matches
+19890,2,no matches
+19920,0,no matches
+19920,1,no matches
+19920,2,no matches
+19950,0,no matches
+19950,1,no matches
+19950,2,no matches
+19980,0,no matches
+19980,1,no matches
+19980,2,no matches
+20010,0,no matches
+20010,1,no matches
+20010,2,no matches
+20040,0,no matches
+20040,1,no matches
+20040,2,no matches
+20070,0,no matches
+20070,1,no matches
+20070,2,no matches
+20100,0,no matches
+20100,1,no matches
+20100,2,no matches
+20130,0,2 ghosty.png killed 1 shotzzy.png
+20130,1,no matches
+20130,2,no matches
+20160,0,no matches
+20160,1,no matches
+20160,2,no matches
+20190,0,no matches
+20190,1,no matches
+20190,2,no matches
+20220,0,2 ghosty.png killed 1 shotzzy.png
+20220,1,no matches
+20220,2,no matches
+20250,0,2 ghosty.png killed 1 shotzzy.png
+20250,1,no matches
+20250,2,no matches
+20280,0,2 ghosty.png killed 1 shotzzy.png
+20280,1,no matches
+20280,2,no matches
+20310,0,no matches
+20310,1,no matches
+20310,2,no matches
+20340,0,no matches
+20340,1,no matches
+20340,2,no matches
+20370,0,no matches
+20370,1,no matches
+20370,2,no matches
+20400,0,no matches
+20400,1,no matches
+20400,2,no matches
+20430,0,no matches
+20430,1,no matches
+20430,2,no matches
+20460,0,no matches
+20460,1,no matches
+20460,2,no matches
+20490,0,no matches
+20490,1,no matches
+20490,2,no matches
+20520,0,1 pred.png killed 2 scrap.png
+20520,1,1 pred.png killed 2 hydra.png
+20520,2,no matches
+20550,0,no matches
+20550,1,no matches
+20550,2,no matches
+20580,0,1 dashy.png killed 2 ghosty.png
+20580,1,1 pred.png killed 2 scrap.png
+20580,2,no matches
+20610,0,no matches
+20610,1,no matches
+20610,2,no matches
+20640,0,no matches
+20640,1,no matches
+20640,2,no matches
+20670,0,2 envoy.png killed 1 pred.png
+20670,1,1 dashy.png killed 2 ghosty.png
+20670,2,1 pred.png killed 2 scrap.png
+20700,0,no matches
+20700,1,no matches
+20700,2,no matches
+20730,0,no matches
+20730,1,no matches
+20730,2,no matches
+20760,0,2 envoy.png killed 1 pred.png
+20760,1,1 dashy.png killed 2 ghosty.png
+20760,2,no matches
+20790,0,no matches
+20790,1,no matches
+20790,2,no matches
+20820,0,no matches
+20820,1,no matches
+20820,2,no matches
+20850,0,no matches
+20850,1,1 kenny.png killed 2 envoy.png
+20850,2,no matches
+20880,0,no matches
+20880,1,no matches
+20880,2,no matches
+20910,0,no matches
+20910,1,no matches
+20910,2,no matches
+20940,0,no matches
+20940,1,no matches
+20940,2,no matches
+20970,0,no matches
+20970,1,no matches
+20970,2,no matches
+21000,0,no matches
+21000,1,no matches
+21000,2,no matches
+21030,0,no matches
+21030,1,no matches
+21030,2,no matches
+21060,0,no matches
+21060,1,no matches
+21060,2,no matches
+21090,0,no matches
+21090,1,no matches
+21090,2,no matches
+21120,0,no matches
+21120,1,no matches
+21120,2,no matches
+21150,0,no matches
+21150,1,no matches
+21150,2,no matches
+21180,0,no matches
+21180,1,no matches
+21180,2,no matches
+21210,0,no matches
+21210,1,no matches
+21210,2,no matches
+21240,0,no matches
+21240,1,no matches
+21240,2,no matches
+21270,0,1 shotzzy.png killed 2 scrap.png
+21270,1,no matches
+21270,2,no matches
+21300,0,no matches
+21300,1,no matches
+21300,2,no matches
+21330,0,1 shotzzy.png killed 2 scrap.png
+21330,1,no matches
+21330,2,no matches
+21360,0,1 shotzzy.png killed 2 scrap.png
+21360,1,no matches
+21360,2,no matches
+21390,0,no matches
+21390,1,no matches
+21390,2,no matches
+21420,0,1 shotzzy.png killed 2 ghosty.png
+21420,1,no matches
+21420,2,no matches
+21450,0,1 shotzzy.png killed 2 ghosty.png
+21450,1,no matches
+21450,2,no matches
+21480,0,no matches
+21480,1,no matches
+21480,2,no matches
+21510,0,no matches
+21510,1,no matches
+21510,2,no matches
+21540,0,no matches
+21540,1,no matches
+21540,2,no matches
+21570,0,no matches
+21570,1,no matches
+21570,2,no matches
+21600,0,2 hydra.png killed 1 pred.png
+21600,1,2 hydra.png killed 1 dashy.png
+21600,2,no matches
+21630,0,no matches
+21630,1,no matches
+21630,2,no matches
+21660,0,2 hydra.png killed 1 pred.png
+21660,1,no matches
+21660,2,no matches
+21690,0,2 hydra.png killed 1 pred.png
+21690,1,2 hydra.png killed 1 dashy.png
+21690,2,no matches
+21720,0,2 hydra.png killed 1 kenny.png
+21720,1,no matches
+21720,2,no matches
+21750,0,no matches
+21750,1,no matches
+21750,2,no matches
+21780,0,2 hydra.png killed 1 kenny.png
+21780,1,no matches
+21780,2,no matches
+21810,0,no matches
+21810,1,2 hydra.png killed 1 pred.png
+21810,2,no matches
+21840,0,2 hydra.png killed 1 kenny.png
+21840,1,no matches
+21840,2,no matches
+21870,0,no matches
+21870,1,no matches
+21870,2,no matches
+21900,0,no matches
+21900,1,no matches
+21900,2,no matches
+21930,0,no matches
+21930,1,no matches
+21930,2,no matches
+21960,0,no matches
+21960,1,no matches
+21960,2,no matches
+21990,0,no matches
+21990,1,no matches
+21990,2,no matches
+22020,0,no matches
+22020,1,no matches
+22020,2,no matches
+22050,0,no matches
+22050,1,no matches
+22050,2,no matches
+22080,0,no matches
+22080,1,no matches
+22080,2,no matches
+22110,0,no matches
+22110,1,no matches
+22110,2,no matches
+22140,0,no matches
+22140,1,no matches
+22140,2,no matches
+22170,0,no matches
+22170,1,no matches
+22170,2,no matches
+22200,0,no matches
+22200,1,no matches
+22200,2,no matches
+22230,0,no matches
+22230,1,no matches
+22230,2,no matches
+22260,0,no matches
+22260,1,no matches
+22260,2,no matches
+22290,0,no matches
+22290,1,no matches
+22290,2,no matches
+22320,0,no matches
+22320,1,no matches
+22320,2,no matches
+22350,0,2 envoy.png killed 1 shotzzy.png
+22350,1,no matches
+22350,2,no matches
+22380,0,no matches
+22380,1,no matches
+22380,2,no matches
+22410,0,2 envoy.png killed 1 shotzzy.png
+22410,1,no matches
+22410,2,no matches
+22440,0,2 envoy.png killed 1 shotzzy.png
+22440,1,no matches
+22440,2,no matches
+22470,0,2 envoy.png killed 1 shotzzy.png
+22470,1,no matches
+22470,2,no matches
+22500,0,2 envoy.png killed 1 shotzzy.png
+22500,1,no matches
+22500,2,no matches
+22530,0,no matches
+22530,1,no matches
+22530,2,no matches
+22560,0,no matches
+22560,1,no matches
+22560,2,no matches
+22590,0,no matches
+22590,1,no matches
+22590,2,no matches
+22620,0,no matches
+22620,1,no matches
+22620,2,no matches
+22650,0,no matches
+22650,1,no matches
+22650,2,no matches
+22680,0,2 ghosty.png killed 1 pred.png
+22680,1,no matches
+22680,2,no matches
+22710,0,no matches
+22710,1,no matches
+22710,2,no matches
+22740,0,no matches
+22740,1,2 ghosty.png killed 1 pred.png
+22740,2,no matches
+22770,0,no matches
+22770,1,no matches
+22770,2,no matches
+22800,0,no matches
+22800,1,no matches
+22800,2,no matches
+22830,0,2 scrap.png killed 1 kenny.png
+22830,1,2 ghosty.png killed 1 pred.png
+22830,2,no matches
+22860,0,1 shotzzy.png killed 2 ghosty.png
+22860,1,2 scrap.png killed 1 kenny.png
+22860,2,no matches
+22890,0,no matches
+22890,1,2 scrap.png killed 1 kenny.png
+22890,2,no matches
+22920,0,1 shotzzy.png killed 2 ghosty.png
+22920,1,2 scrap.png killed 1 kenny.png
+22920,2,no matches
+22950,0,1 shotzzy.png killed 2 ghosty.png
+22950,1,no matches
+22950,2,no matches
+22980,0,no matches
+22980,1,no matches
+22980,2,no matches
+23010,0,1 shotzzy.png killed 2 ghosty.png
+23010,1,2 scrap.png killed 1 kenny.png
+23010,2,no matches
+23040,0,1 shotzzy.png killed 2 ghosty.png
+23040,1,no matches
+23040,2,no matches
+23070,0,1 shotzzy.png killed 2 ghosty.png
+23070,1,no matches
+23070,2,no matches
+23100,0,no matches
+23100,1,no matches
+23100,2,no matches
+23130,0,1 shotzzy.png killed 2 envoy.png
+23130,1,no matches
+23130,2,no matches
+23160,0,no matches
+23160,1,no matches
+23160,2,no matches
+23190,0,2 scrap.png killed 1 shotzzy.png
+23190,1,1 shotzzy.png killed 2 envoy.png
+23190,2,no matches
+23220,0,2 scrap.png killed 1 shotzzy.png
+23220,1,no matches
+23220,2,no matches
+23250,0,2 scrap.png killed 1 shotzzy.png
+23250,1,no matches
+23250,2,no matches
+23280,0,2 scrap.png killed 1 shotzzy.png
+23280,1,1 shotzzy.png killed 2 envoy.png
+23280,2,no matches
+23310,0,2 scrap.png killed 1 shotzzy.png
+23310,1,1 shotzzy.png killed 2 envoy.png
+23310,2,no matches
+23340,0,2 scrap.png killed 1 shotzzy.png
+23340,1,1 shotzzy.png killed 2 envoy.png
+23340,2,no matches
+23370,0,no matches
+23370,1,no matches
+23370,2,no matches
+23400,0,no matches
+23400,1,no matches
+23400,2,no matches
+23430,0,1 dashy.png killed 2 ghosty.png
+23430,1,no matches
+23430,2,no matches
+23460,0,1 dashy.png killed 2 ghosty.png
+23460,1,2 scrap.png killed 1 shotzzy.png
+23460,2,no matches
+23490,0,1 dashy.png killed 2 ghosty.png
+23490,1,no matches
+23490,2,no matches
+23520,0,no matches
+23520,1,no matches
+23520,2,no matches
+23550,0,no matches
+23550,1,no matches
+23550,2,no matches
+23580,0,no matches
+23580,1,no matches
+23580,2,no matches
+23610,0,no matches
+23610,1,1 dashy.png killed 2 ghosty.png
+23610,2,no matches
+23640,0,2 hydra.png killed 1 pred.png
+23640,1,no matches
+23640,2,no matches
+23670,0,2 hydra.png killed 1 pred.png
+23670,1,2 hydra.png killed 1 kenny.png
+23670,2,no matches
+23700,0,2 hydra.png killed 1 pred.png
+23700,1,2 hydra.png killed 1 kenny.png
+23700,2,no matches
+23730,0,2 hydra.png killed 1 pred.png
+23730,1,2 hydra.png killed 1 kenny.png
+23730,2,no matches
+23760,0,2 hydra.png killed 1 pred.png
+23760,1,2 hydra.png killed 1 kenny.png
+23760,2,no matches
+23790,0,2 hydra.png killed 1 pred.png
+23790,1,2 hydra.png killed 1 kenny.png
+23790,2,no matches
+23820,0,2 hydra.png killed 1 pred.png
+23820,1,2 hydra.png killed 1 kenny.png
+23820,2,no matches
+23850,0,2 hydra.png killed 1 pred.png
+23850,1,no matches
+23850,2,no matches
+23880,0,2 hydra.png killed 1 pred.png
+23880,1,no matches
+23880,2,no matches
+23910,0,no matches
+23910,1,no matches
+23910,2,no matches
+23940,0,1 shotzzy.png killed 2 scrap.png
+23940,1,no matches
+23940,2,no matches
+23970,0,1 shotzzy.png killed 2 scrap.png
+23970,1,no matches
+23970,2,no matches
+24000,0,1 shotzzy.png killed 2 scrap.png
+24000,1,no matches
+24000,2,no matches
+24030,0,no matches
+24030,1,no matches
+24030,2,no matches
+24060,0,1 shotzzy.png killed 2 scrap.png
+24060,1,no matches
+24060,2,no matches
+24090,0,1 shotzzy.png killed 2 scrap.png
+24090,1,no matches
+24090,2,no matches
+24120,0,no matches
+24120,1,no matches
+24120,2,no matches
+24150,0,1 shotzzy.png killed 2 scrap.png
+24150,1,no matches
+24150,2,no matches
+24180,0,1 shotzzy.png killed 2 scrap.png
+24180,1,no matches
+24180,2,no matches
+24210,0,no matches
+24210,1,no matches
+24210,2,no matches
+24240,0,no matches
+24240,1,no matches
+24240,2,no matches
+24270,0,no matches
+24270,1,no matches
+24270,2,no matches
+24300,0,2 ghosty.png killed 1 dashy.png
+24300,1,no matches
+24300,2,no matches
+24330,0,no matches
+24330,1,no matches
+24330,2,no matches
+24360,0,no matches
+24360,1,no matches
+24360,2,no matches
+24390,0,no matches
+24390,1,no matches
+24390,2,no matches
+24420,0,no matches
+24420,1,no matches
+24420,2,no matches
+24450,0,1 pred.png killed 2 envoy.png
+24450,1,2 ghosty.png killed 1 dashy.png
+24450,2,no matches
+24480,0,no matches
+24480,1,2 ghosty.png killed 1 pred.png
+24480,2,no matches
+24510,0,no matches
+24510,1,1 kenny.png killed 2 ghosty.png
+24510,2,no matches
+24540,0,2 hydra.png killed 1 kenny.png
+24540,1,1 kenny.png killed 2 ghosty.png
+24540,2,no matches
+24570,0,no matches
+24570,1,2 hydra.png killed 1 kenny.png
+24570,2,no matches
+24600,0,1 shotzzy.png killed 2 hydra.png
+24600,1,2 hydra.png killed 1 kenny.png
+24600,2,no matches
+24630,0,no matches
+24630,1,2 hydra.png killed 1 kenny.png
+24630,2,no matches
+24660,0,no matches
+24660,1,no matches
+24660,2,no matches
+24690,0,no matches
+24690,1,no matches
+24690,2,no matches
+24720,0,no matches
+24720,1,no matches
+24720,2,no matches
+24750,0,2 scrap.png killed 1 shotzzy.png
+24750,1,1 shotzzy.png killed 2 hydra.png
+24750,2,no matches
+24780,0,no matches
+24780,1,1 shotzzy.png killed 2 hydra.png
+24780,2,no matches
+24810,0,no matches
+24810,1,no matches
+24810,2,no matches
+24840,0,no matches
+24840,1,no matches
+24840,2,no matches
+24870,0,2 scrap.png killed 1 shotzzy.png
+24870,1,no matches
+24870,2,no matches
+24900,0,2 scrap.png killed 1 shotzzy.png
+24900,1,no matches
+24900,2,no matches
+24930,0,2 scrap.png killed 1 shotzzy.png
+24930,1,no matches
+24930,2,no matches
+24960,0,1 dashy.png killed 2 scrap.png
+24960,1,2 scrap.png killed 1 shotzzy.png
+24960,2,no matches
+24990,0,1 dashy.png killed 2 scrap.png
+24990,1,2 scrap.png killed 1 shotzzy.png
+24990,2,no matches
+25020,0,no matches
+25020,1,no matches
+25020,2,no matches
+25050,0,no matches
+25050,1,no matches
+25050,2,no matches
+25080,0,1 dashy.png killed 2 scrap.png
+25080,1,no matches
+25080,2,no matches
+25110,0,no matches
+25110,1,no matches
+25110,2,no matches
+25140,0,no matches
+25140,1,no matches
+25140,2,no matches
+25170,0,1 dashy.png killed 2 scrap.png
+25170,1,no matches
+25170,2,no matches
+25200,0,1 dashy.png killed 2 scrap.png
+25200,1,no matches
+25200,2,no matches
+25230,0,no matches
+25230,1,no matches
+25230,2,no matches
+25260,0,no matches
+25260,1,no matches
+25260,2,no matches
+25290,0,no matches
+25290,1,no matches
+25290,2,no matches
+25320,0,no matches
+25320,1,no matches
+25320,2,no matches
+25350,0,no matches
+25350,1,no matches
+25350,2,no matches
+25380,0,no matches
+25380,1,no matches
+25380,2,no matches
+25410,0,no matches
+25410,1,no matches
+25410,2,no matches
+25440,0,no matches
+25440,1,no matches
+25440,2,no matches
+25470,0,no matches
+25470,1,no matches
+25470,2,no matches
+25500,0,no matches
+25500,1,no matches
+25500,2,no matches
+25530,0,no matches
+25530,1,no matches
+25530,2,no matches
+25560,0,no matches
+25560,1,no matches
+25560,2,no matches
+25590,0,no matches
+25590,1,no matches
+25590,2,no matches
+25620,0,no matches
+25620,1,no matches
+25620,2,no matches
+25650,0,no matches
+25650,1,no matches
+25650,2,no matches
+25680,0,no matches
+25680,1,no matches
+25680,2,no matches
+25710,0,no matches
+25710,1,no matches
+25710,2,no matches
+25740,0,no matches
+25740,1,no matches
+25740,2,no matches
+25770,0,no matches
+25770,1,no matches
+25770,2,no matches
+25800,0,no matches
+25800,1,no matches
+25800,2,no matches
+25830,0,no matches
+25830,1,no matches
+25830,2,no matches
+25860,0,no matches
+25860,1,no matches
+25860,2,no matches
+25890,0,no matches
+25890,1,1 kenny.png killed 2 scrap.png
+25890,2,no matches
+25920,0,no matches
+25920,1,1 kenny.png killed 2 scrap.png
+25920,2,no matches
+25950,0,2 hydra.png killed 1 dashy.png
+25950,1,1 kenny.png killed 2 scrap.png
+25950,2,no matches
+25980,0,2 hydra.png killed 1 dashy.png
+25980,1,1 kenny.png killed 2 scrap.png
+25980,2,no matches
+26010,0,2 hydra.png killed 1 dashy.png
+26010,1,1 kenny.png killed 2 scrap.png
+26010,2,no matches
+26040,0,2 hydra.png killed 1 dashy.png
+26040,1,1 kenny.png killed 2 scrap.png
+26040,2,no matches
+26070,0,no matches
+26070,1,1 kenny.png killed 2 scrap.png
+26070,2,no matches
+26100,0,no matches
+26100,1,no matches
+26100,2,no matches
+26130,0,no matches
+26130,1,1 pred.png killed 2 hydra.png
+26130,2,no matches
+26160,0,2 ghosty.png killed 1 kenny.png
+26160,1,1 pred.png killed 2 hydra.png
+26160,2,no matches
+26190,0,2 ghosty.png killed 1 kenny.png
+26190,1,1 pred.png killed 2 hydra.png
+26190,2,no matches
+26220,0,2 ghosty.png killed 1 kenny.png
+26220,1,1 pred.png killed 2 hydra.png
+26220,2,no matches
+26250,0,no matches
+26250,1,1 pred.png killed 2 hydra.png
+26250,2,no matches
+26280,0,2 envoy.png killed 1 pred.png
+26280,1,2 ghosty.png killed 1 kenny.png
+26280,2,no matches
+26310,0,no matches
+26310,1,no matches
+26310,2,no matches
+26340,0,2 envoy.png killed 1 pred.png
+26340,1,no matches
+26340,2,no matches
+26370,0,2 envoy.png killed 1 shotzzy.png
+26370,1,no matches
+26370,2,no matches
+26400,0,no matches
+26400,1,2 envoy.png killed 1 pred.png
+26400,2,no matches
+26430,0,no matches
+26430,1,2 envoy.png killed 1 pred.png
+26430,2,no matches
+26460,0,2 envoy.png killed 1 shotzzy.png
+26460,1,2 envoy.png killed 1 pred.png
+26460,2,no matches
+26490,0,no matches
+26490,1,2 envoy.png killed 1 pred.png
+26490,2,no matches
+26520,0,no matches
+26520,1,2 envoy.png killed 1 pred.png
+26520,2,no matches
+26550,0,no matches
+26550,1,no matches
+26550,2,no matches
+26580,0,no matches
+26580,1,no matches
+26580,2,no matches
+26610,0,2 ghosty.png killed 1 dashy.png
+26610,1,2 envoy.png killed 1 shotzzy.png
+26610,2,no matches
+26640,0,2 ghosty.png killed 1 dashy.png
+26640,1,2 envoy.png killed 1 shotzzy.png
+26640,2,no matches
+26670,0,2 ghosty.png killed 1 dashy.png
+26670,1,no matches
+26670,2,no matches
+26700,0,2 ghosty.png killed 1 dashy.png
+26700,1,no matches
+26700,2,no matches
+26730,0,2 ghosty.png killed 1 dashy.png
+26730,1,no matches
+26730,2,no matches
+26760,0,2 ghosty.png killed 1 dashy.png
+26760,1,no matches
+26760,2,no matches
+26790,0,no matches
+26790,1,no matches
+26790,2,no matches
+26820,0,2 ghosty.png killed 1 dashy.png
+26820,1,no matches
+26820,2,no matches
+26850,0,2 ghosty.png killed 1 dashy.png
+26850,1,no matches
+26850,2,no matches
+26880,0,2 ghosty.png killed 1 dashy.png
+26880,1,no matches
+26880,2,no matches
+26910,0,2 hydra.png killed 1 pred.png
+26910,1,no matches
+26910,2,no matches
+26940,0,2 hydra.png killed 1 pred.png
+26940,1,no matches
+26940,2,no matches
+26970,0,2 hydra.png killed 1 pred.png
+26970,1,no matches
+26970,2,no matches
+27000,0,2 hydra.png killed 1 pred.png
+27000,1,no matches
+27000,2,no matches
+27030,0,no matches
+27030,1,no matches
+27030,2,no matches
+27060,0,2 envoy.png killed 1 kenny.png
+27060,1,2 hydra.png killed 1 pred.png
+27060,2,no matches
+27090,0,2 envoy.png killed 1 kenny.png
+27090,1,2 hydra.png killed 1 pred.png
+27090,2,no matches
+27120,0,no matches
+27120,1,2 hydra.png killed 1 pred.png
+27120,2,no matches
+27150,0,2 envoy.png killed 1 kenny.png
+27150,1,2 hydra.png killed 1 pred.png
+27150,2,no matches
+27180,0,2 envoy.png killed 1 kenny.png
+27180,1,2 hydra.png killed 1 pred.png
+27180,2,no matches
+27210,0,2 envoy.png killed 1 kenny.png
+27210,1,no matches
+27210,2,no matches
+27240,0,no matches
+27240,1,2 envoy.png killed 1 kenny.png
+27240,2,no matches
+27270,0,no matches
+27270,1,no matches
+27270,2,no matches
+27300,0,1 shotzzy.png killed 2 hydra.png
+27300,1,2 envoy.png killed 1 kenny.png
+27300,2,no matches
+27330,0,1 shotzzy.png killed 2 hydra.png
+27330,1,no matches
+27330,2,no matches
+27360,0,1 shotzzy.png killed 2 hydra.png
+27360,1,no matches
+27360,2,no matches
+27390,0,no matches
+27390,1,no matches
+27390,2,no matches
+27420,0,no matches
+27420,1,no matches
+27420,2,no matches
+27450,0,1 shotzzy.png killed 2 hydra.png
+27450,1,no matches
+27450,2,no matches
+27480,0,no matches
+27480,1,no matches
+27480,2,no matches
+27510,0,1 shotzzy.png killed 2 hydra.png
+27510,1,no matches
+27510,2,no matches
+27540,0,no matches
+27540,1,no matches
+27540,2,no matches
+27570,0,no matches
+27570,1,no matches
+27570,2,no matches
+27600,0,no matches
+27600,1,no matches
+27600,2,no matches
+27630,0,no matches
+27630,1,no matches
+27630,2,no matches
+27660,0,no matches
+27660,1,no matches
+27660,2,no matches
+27690,0,no matches
+27690,1,no matches
+27690,2,no matches
+27720,0,no matches
+27720,1,no matches
+27720,2,no matches
+27750,0,1 dashy.png killed 2 envoy.png
+27750,1,no matches
+27750,2,no matches
+27780,0,no matches
+27780,1,no matches
+27780,2,no matches
+27810,0,1 dashy.png killed 2 envoy.png
+27810,1,no matches
+27810,2,no matches
+27840,0,1 dashy.png killed 2 envoy.png
+27840,1,no matches
+27840,2,no matches
+27870,0,1 dashy.png killed 2 envoy.png
+27870,1,no matches
+27870,2,no matches
+27900,0,1 dashy.png killed 2 envoy.png
+27900,1,no matches
+27900,2,no matches
+27930,0,2 scrap.png killed 1 shotzzy.png
+27930,1,2 ghosty.png killed 1 kenny.png
+27930,2,no matches
+27960,0,1 pred.png killed 2 scrap.png
+27960,1,no matches
+27960,2,no matches
+27990,0,1 pred.png killed 2 ghosty.png
+27990,1,2 scrap.png killed 1 shotzzy.png
+27990,2,no matches
+28020,0,2 scrap.png killed 1 pred.png
+28020,1,no matches
+28020,2,no matches
+28050,0,1 pred.png killed 2 ghosty.png
+28050,1,2 scrap.png killed 1 shotzzy.png
+28050,2,no matches
+28080,0,no matches
+28080,1,no matches
+28080,2,no matches
+28110,0,2 hydra.png killed 1 pred.png
+28110,1,1 dashy.png killed 2 scrap.png
+28110,2,no matches
+28140,0,2 hydra.png killed 1 pred.png
+28140,1,1 dashy.png killed 2 scrap.png
+28140,2,no matches
+28170,0,2 hydra.png killed 1 pred.png
+28170,1,1 dashy.png killed 2 scrap.png
+28170,2,no matches
+28200,0,no matches
+28200,1,no matches
+28200,2,no matches
+28230,0,2 hydra.png killed 1 dashy.png
+28230,1,2 hydra.png killed 1 pred.png
+28230,2,no matches
+28260,0,no matches
+28260,1,2 hydra.png killed 1 pred.png
+28260,2,no matches
+28290,0,no matches
+28290,1,no matches
+28290,2,no matches
+28320,0,no matches
+28320,1,2 hydra.png killed 1 pred.png
+28320,2,no matches
+28350,0,2 hydra.png killed 1 dashy.png
+28350,1,2 hydra.png killed 1 pred.png
+28350,2,no matches
+28380,0,no matches
+28380,1,no matches
+28380,2,no matches
+28410,0,2 hydra.png killed 1 dashy.png
+28410,1,no matches
+28410,2,no matches
+28440,0,2 hydra.png killed 1 dashy.png
+28440,1,no matches
+28440,2,no matches
+28470,0,2 hydra.png killed 1 dashy.png
+28470,1,no matches
+28470,2,no matches
+28500,0,2 hydra.png killed 1 dashy.png
+28500,1,no matches
+28500,2,no matches
+28530,0,no matches
+28530,1,no matches
+28530,2,no matches
+28560,0,no matches
+28560,1,no matches
+28560,2,no matches
+28590,0,no matches
+28590,1,no matches
+28590,2,no matches
+28620,0,no matches
+28620,1,no matches
+28620,2,no matches
+28650,0,no matches
+28650,1,no matches
+28650,2,no matches
+28680,0,no matches
+28680,1,no matches
+28680,2,no matches
+28710,0,no matches
+28710,1,no matches
+28710,2,no matches
+28740,0,no matches
+28740,1,no matches
+28740,2,no matches
+28770,0,no matches
+28770,1,no matches
+28770,2,no matches
+28800,0,no matches
+28800,1,no matches
+28800,2,no matches
+28830,0,no matches
+28830,1,no matches
+28830,2,no matches
+28860,0,no matches
+28860,1,no matches
+28860,2,no matches
+28890,0,no matches
+28890,1,no matches
+28890,2,no matches
+28920,0,2 scrap.png killed 1 pred.png
+28920,1,no matches
+28920,2,no matches
+28950,0,2 scrap.png killed 1 pred.png
+28950,1,1 kenny.png killed 2 envoy.png
+28950,2,no matches
+28980,0,2 scrap.png killed 1 pred.png
+28980,1,no matches
+28980,2,no matches
+29010,0,no matches
+29010,1,no matches
+29010,2,no matches
+29040,0,no matches
+29040,1,no matches
+29040,2,no matches
+29070,0,no matches
+29070,1,no matches
+29070,2,no matches
+29100,0,no matches
+29100,1,no matches
+29100,2,no matches
+29130,0,no matches
+29130,1,no matches
+29130,2,no matches
+29160,0,no matches
+29160,1,no matches
+29160,2,no matches
+29190,0,no matches
+29190,1,no matches
+29190,2,no matches
+29220,0,no matches
+29220,1,no matches
+29220,2,no matches
+29250,0,no matches
+29250,1,no matches
+29250,2,no matches
+29280,0,2 scrap.png killed 1 kenny.png
+29280,1,1 kenny.png killed 2 hydra.png
+29280,2,no matches
+29310,0,2 scrap.png killed 1 kenny.png
+29310,1,1 kenny.png killed 2 hydra.png
+29310,2,no matches
+29340,0,2 scrap.png killed 1 kenny.png
+29340,1,1 kenny.png killed 2 hydra.png
+29340,2,no matches
+29370,0,2 scrap.png killed 1 kenny.png
+29370,1,1 kenny.png killed 2 hydra.png
+29370,2,no matches
+29400,0,2 scrap.png killed 1 kenny.png
+29400,1,no matches
+29400,2,no matches
+29430,0,2 ghosty.png killed 1 shotzzy.png
+29430,1,2 scrap.png killed 1 kenny.png
+29430,2,no matches
+29460,0,2 ghosty.png killed 1 shotzzy.png
+29460,1,2 scrap.png killed 1 kenny.png
+29460,2,no matches
+29490,0,2 ghosty.png killed 1 shotzzy.png
+29490,1,2 scrap.png killed 1 kenny.png
+29490,2,no matches
+29520,0,2 ghosty.png killed 1 shotzzy.png
+29520,1,2 scrap.png killed 1 kenny.png
+29520,2,no matches
+29550,0,no matches
+29550,1,no matches
+29550,2,no matches
+29580,0,2 envoy.png killed 1 dashy.png
+29580,1,no matches
+29580,2,no matches
+29610,0,no matches
+29610,1,no matches
+29610,2,no matches
+29640,0,2 envoy.png killed 1 dashy.png
+29640,1,2 ghosty.png killed 1 shotzzy.png
+29640,2,no matches
+29670,0,2 envoy.png killed 1 dashy.png
+29670,1,2 ghosty.png killed 1 shotzzy.png
+29670,2,no matches
+29700,0,no matches
+29700,1,no matches
+29700,2,no matches
+29730,0,1 pred.png killed 2 scrap.png
+29730,1,2 envoy.png killed 1 dashy.png
+29730,2,no matches
+29760,0,1 pred.png killed 2 scrap.png
+29760,1,2 envoy.png killed 1 dashy.png
+29760,2,no matches
+29790,0,1 pred.png killed 2 scrap.png
+29790,1,2 envoy.png killed 1 dashy.png
+29790,2,no matches
+29820,0,1 pred.png killed 2 scrap.png
+29820,1,2 envoy.png killed 1 dashy.png
+29820,2,no matches
+29850,0,no matches
+29850,1,no matches
+29850,2,no matches
+29880,0,no matches
+29880,1,no matches
+29880,2,no matches
+29910,0,no matches
+29910,1,no matches
+29910,2,no matches
+29940,0,no matches
+29940,1,no matches
+29940,2,no matches
+29970,0,no matches
+29970,1,no matches
+29970,2,no matches
+30000,0,2 hydra.png killed 1 kenny.png
+30000,1,no matches
+30000,2,no matches
+30030,0,2 hydra.png killed 1 kenny.png
+30030,1,no matches
+30030,2,no matches
+30060,0,2 hydra.png killed 1 kenny.png
+30060,1,no matches
+30060,2,no matches
+30090,0,no matches
+30090,1,2 hydra.png killed 1 kenny.png
+30090,2,no matches
+30120,0,1 pred.png killed 2 envoy.png
+30120,1,2 hydra.png killed 1 kenny.png
+30120,2,no matches
+30150,0,1 pred.png killed 2 envoy.png
+30150,1,no matches
+30150,2,no matches
+30180,0,1 pred.png killed 2 envoy.png
+30180,1,no matches
+30180,2,no matches
+30210,0,2 scrap.png killed 1 pred.png
+30210,1,1 pred.png killed 2 envoy.png
+30210,2,no matches
+30240,0,no matches
+30240,1,1 pred.png killed 2 envoy.png
+30240,2,no matches
+30270,0,no matches
+30270,1,no matches
+30270,2,no matches
+30300,0,2 ghosty.png killed 1 shotzzy.png
+30300,1,1 dashy.png killed 2 hydra.png
+30300,2,no matches
+30330,0,2 ghosty.png killed 1 shotzzy.png
+30330,1,1 dashy.png killed 2 hydra.png
+30330,2,no matches
+30360,0,2 ghosty.png killed 1 shotzzy.png
+30360,1,1 dashy.png killed 2 hydra.png
+30360,2,no matches
+30390,0,2 ghosty.png killed 1 dashy.png
+30390,1,2 ghosty.png killed 1 shotzzy.png
+30390,2,no matches
+30420,0,2 ghosty.png killed 1 dashy.png
+30420,1,2 ghosty.png killed 1 shotzzy.png
+30420,2,no matches
+30450,0,2 ghosty.png killed 1 dashy.png
+30450,1,2 ghosty.png killed 1 shotzzy.png
+30450,2,no matches
+30480,0,2 ghosty.png killed 1 dashy.png
+30480,1,2 ghosty.png killed 1 shotzzy.png
+30480,2,no matches
+30510,0,2 ghosty.png killed 1 dashy.png
+30510,1,2 ghosty.png killed 1 shotzzy.png
+30510,2,no matches
+30540,0,2 ghosty.png killed 1 dashy.png
+30540,1,no matches
+30540,2,no matches
+30570,0,2 ghosty.png killed 1 dashy.png
+30570,1,no matches
+30570,2,no matches
+30600,0,2 ghosty.png killed 1 dashy.png
+30600,1,no matches
+30600,2,no matches
+30630,0,no matches
+30630,1,no matches
+30630,2,no matches
+30660,0,no matches
+30660,1,no matches
+30660,2,no matches
+30690,0,no matches
+30690,1,no matches
+30690,2,no matches
+30720,0,no matches
+30720,1,no matches
+30720,2,no matches
+30750,0,no matches
+30750,1,no matches
+30750,2,no matches
+30780,0,no matches
+30780,1,no matches
+30780,2,no matches
+30810,0,no matches
+30810,1,no matches
+30810,2,no matches
+30840,0,1 pred.png killed 2 ghosty.png
+30840,1,no matches
+30840,2,no matches
+30870,0,1 pred.png killed 2 ghosty.png
+30870,1,no matches
+30870,2,no matches
+30900,0,1 pred.png killed 2 ghosty.png
+30900,1,no matches
+30900,2,no matches

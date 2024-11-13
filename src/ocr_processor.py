@@ -43,6 +43,9 @@ def preprocess_frame(frame):
     # Apply thresholding
     _, thresh = cv2.threshold(clahe_applied, 125, 255, cv2.THRESH_BINARY)
     
+    # ## print size of image
+    # print(f"Image size: {thresh.shape}")
+    
     return thresh
 
 def on_mouse_click(event, x, y, flags, param):
